@@ -1,7 +1,7 @@
 2024年夏アニメの感想を書いていく。  
 今期は何故かラブコメ学園ものが多い。
 
-:contents
+[:contents]
 
 ### 時々ボソッとロシア語でデレる隣のアーリャさん
 <div style="position: relative; display: inline-block;">
