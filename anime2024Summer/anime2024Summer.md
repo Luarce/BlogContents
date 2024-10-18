@@ -7,7 +7,7 @@
 <div style="position: relative; display: inline-block;">
     <img src="https://raw.githubusercontent.com/Luarce/blogContents/refs/heads/main/anime2024Summer/anime2024SummerImages/roshidere_title.png" alt="時々ボソッとロシア語でデレる隣のアーリャさん" style="display: block;">
     <div style="position: absolute; bottom: 0; width:100%; background-color: rgba(128, 128, 128, 0.7); color: white; padding: 2px; font-size: 13px; text-align:center;">
-        ©Sunsunsun,Momoco/KADOKAWA/Alya-sanPartners
+    ©Sunsunsun,Momoco/KADOKAWA/Alya-sanPartners
     </div>
 </div>
 
