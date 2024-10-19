@@ -45,10 +45,10 @@
 <tr>
 <td>1話</td>
 <td>学園天国</td>
-                <td>フィンガー5</td>
-            </tr>
-            <tr>
-                <td>2話</td>
+<td>フィンガー5</td>
+</tr>
+<tr>
+<td>2話</td>
                 <td>可愛くてごめん</td>
                 <td>HoneyWorks</td>
             </tr>
