@@ -8,6 +8,8 @@
     display: block;
 }
 
+.anime
+
 
 
 </style>
