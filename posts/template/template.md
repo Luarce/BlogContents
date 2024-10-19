@@ -2,7 +2,7 @@
 
 [:contents]
 
-### 見出し3
+### 見出し
 
 <div style="text-align: center"><strong>おわり<strong></div>
 
