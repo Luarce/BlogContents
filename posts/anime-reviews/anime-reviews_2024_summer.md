@@ -150,7 +150,7 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 @import url("../../assets/css/hatena-design.css");
 </style>
 
-<script src="https://code.jquery.com/jquery-3.6.0.min.js">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
     $(function() {
         var contentsText = "目次";
