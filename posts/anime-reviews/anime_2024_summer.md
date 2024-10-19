@@ -1,5 +1,7 @@
 <style>
-.anime_title
+.anime_title{
+    
+}
 
 </style>
 
