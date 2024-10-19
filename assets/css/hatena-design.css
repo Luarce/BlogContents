@@ -30,6 +30,35 @@
     list-style-type: decimal;
 }
 
+/* h3, h4, h5の共通スタイル */
+h3, h4, h5 {
+    padding-left: 15px; /* 縦線の余白を確保 */
+    border-left: 4px solid; /* 縦線の太さを設定 */
+    margin-bottom: 10px; /* 下の余白 */
+}
+
+/* h3のスタイル */
+h3 {
+    border-color: #3498db; /* 青色の縦線 */
+    color: #3498db; /* 青色の文字 */
+    font-size: 1.6em; /* h3の文字サイズ */
+}
+
+/* h4のスタイル */
+h4 {
+    border-color: #2ecc71; /* 緑色の縦線 */
+    color: #2ecc71; /* 緑色の文字 */
+    font-size: 1.4em; /* h4の文字サイズ */
+}
+
+/* h5のスタイル */
+h5 {
+    border-color: #f39c12; /* オレンジ色の縦線 */
+    color: #f39c12; /* オレンジ色の文字 */
+    font-size: 1.2em; /* h5の文字サイズ */
+}
+
+
 /*アニメタイトル画像にキャプションをつける*/
 .anime_title {
     position: relative;
