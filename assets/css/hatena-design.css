@@ -16,16 +16,17 @@
 
 /* 目次関連 */
 .contents {
-    padding:10px;
-	font-weight: bold;
-	}
+    padding: 10px;
+    font-weight: bold;
+}
+
 .switch {
-	text-decoration:underline;
-	cursor: pointer;
-	}
+    text-decoration: underline;
+    cursor: pointer;
+}
 
 .table-of-contents li,
-.table-of-contents ul{
+.table-of-contents ul {
     list-style-type: decimal;
 }
 
