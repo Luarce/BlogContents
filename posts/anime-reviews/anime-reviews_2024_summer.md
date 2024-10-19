@@ -158,12 +158,12 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 
         var $contents = $(".table-of-contents");
         var $li = $contents.find("li");
-    
+
         $contents.prepend(
             '<span class="contents">' + contentsText + '</span>' +
             '<span class="switch">' + closeText + '</span>'
         );
-    
+
         var $switch = $contents.find(".switch");
     
         $switch.on("click", function() {
