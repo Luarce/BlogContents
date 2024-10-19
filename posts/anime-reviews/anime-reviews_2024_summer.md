@@ -30,7 +30,7 @@
 <details class="spoiler_details">
     <summary>
         <span style="color: #d32f2f">
-        ED一覧（※ネタバレ注意）</span>
+        <strong>ED一覧（※ネタバレ注意）</strong></span>
         <u>[クリックで展開]</u>
     </summary>
     <table>
@@ -44,66 +44,65 @@
         <tbody>
             <tr>
                 <td>1話</td>
-                <td>学園天国</td>
+                <td><strong>学園天国</strong></td>
                 <td>フィンガー5</td>
             </tr>
             <tr>
                 <td>2話</td>
-                <td>可愛くてごめん</td>
+                <td><strong>可愛くてごめん</strong></td>
                 <td>HoneyWorks</td>
             </tr>
             <tr>
                 <td>3話</td>
-                <td>想い出がいっぱい</td>
+                <td><strong>想い出がいっぱい</strong></td>
                 <td>H2O</td>
             </tr>
             <tr>
                 <td>4話</td>
-                <td>ハレ晴レユカイ</td>
+                <td><strong>ハレ晴レユカイ</strong></td>
                 <td>涼宮ハルヒの憂鬱ED</td>
             </tr>
             <tr>
                 <td>5話</td>
-                <td>小さな恋の歌</td>
+                <td><strong>小さな恋の歌</strong></td>
                 <td>MONGOL800</td>
             </tr>
             <tr>
                 <td>6話</td>
-                <td>秘密の言葉</td>
+                <td><strong>秘密の言葉</strong></td>
                 <td>花譜 × ズーカラデル</td>
             </tr>
             <tr>
                 <td>7話</td>
-                <td>ラブストーリーは突然に</td>
+                <td><strong>ラブストーリーは突然に</strong></td>
                 <td>小田和正</td>
             </tr>
             <tr>
                 <td>8話</td>
-                <td>CHE.R.RY</td>
+                <td><strong>CHE.R.RY</strong></td>
                 <td>YUI</td>
             </tr>
             <tr>
                 <td>9話</td>
-                <td>ワールドイズマイン</td>
+                <td><strong>ワールドイズマイン</strong></td>
                 <td>ryo（supercell）</td>
             </tr>
             <tr>
                 <td>10話</td>
-                <td>こいのうた</td>
+                <td><strong>こいのうた</strong></td>
                 <td>GO!GO!7188</td>
             </tr>
             <tr>
                 <td>11話</td>
-                <td>気まぐれロマンティック</td>
+                <td><strong>気まぐれロマンティック</strong></td>
                 <td>いきものがかり</td>
             </tr>
             <tr>
                 <td>12話</td>
-                <td>ハナモヨイ</td>
+                <td><strong>ハナモヨイ</strong></td>
                 <td>オリジナル曲</td>
             </tr>
         </tbody>
-    </table>
 
 ※全て[<u>公式Youtubeチャンネル</u>](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中  
 
