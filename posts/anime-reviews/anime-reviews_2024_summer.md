@@ -34,18 +34,64 @@
 <u> [クリックで展開]</u>
 </summary>
 
-1. **学園天国**（フィンガー5）  
-2. **可愛くてごめん**（HoneyWorks）  
-3. **想い出がいっぱい**（H2O）  
-4. **ハレ晴レユカイ**（涼宮ハルヒの憂鬱ED）  
-5. **小さな恋の歌** （MONGOL800）  
-6. **秘密の言葉**（花譜 × ズーカラデル）  
-7. **ラブストーリーは突然に**（小田和正）  
-8. **CHE.R.RY**（YUI）  
-9. **ワールドイズマイン**（ryo（supercell））  
-10. **こいのうた**（GO!GO!7188）  
-11. **気まぐれロマンティック**（いきものがかり）  
-12. **ハナモヨイ**（オリジナル曲）
+<table style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">曲名</th>
+            <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">アーティスト</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">学園天国</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">フィンガー5</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">可愛くてごめん</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">HoneyWorks</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">想い出がいっぱい</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">H2O</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">ハレ晴レユカイ</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">涼宮ハルヒの憂鬱ED</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">小さな恋の歌</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">MONGOL800</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">秘密の言葉</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">花譜 × ズーカラデル</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">ラブストーリーは突然に</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">小田和正</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">CHE.R.RY</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">YUI</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">ワールドイズマイン</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">ryo（supercell）</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">こいのうた</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">GO!GO!7188</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">気まぐれロマンティック</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">いきものがかり</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ccc; padding: 8px;">ハナモヨイ</td>
+            <td style="border: 1px solid #ccc; padding: 8px;">オリジナル曲</td>
+        </tr>
+    </tbody>
+</table>
 
 ※全て[<u>公式Youtubeチャンネル</u>](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中  
 
@@ -58,6 +104,7 @@
 と懐かしい気持ちになれたのは良い体験であった。
 
 </details>
+
 
 
 
