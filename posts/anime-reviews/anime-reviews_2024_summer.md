@@ -59,11 +59,11 @@
 </tr>
 <tr>
 <td>4話</td>
-                <td>ハレ晴レユカイ</td>
-                <td>涼宮ハルヒの憂鬱ED</td>
-            </tr>
-            <tr>
-                <td>5話</td>
+<td>ハレ晴レユカイ</td>
+<td>涼宮ハルヒの憂鬱ED</td>
+</tr>
+<tr>
+<td>5話</td>
                 <td>小さな恋の歌</td>
                 <td>MONGOL800</td>
             </tr>
