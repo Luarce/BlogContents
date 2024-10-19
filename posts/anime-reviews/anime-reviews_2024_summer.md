@@ -88,17 +88,17 @@
                 <td>ryo（supercell）</td>
             </tr>
             <tr>
-                <td>10</td>
+                <td>10話</td>
                 <td><strong>こいのうた</strong></td>
                 <td>GO!GO!7188</td>
             </tr>
             <tr>
-                <td>11</td>
+                <td>11話</td>
                 <td><strong>気まぐれロマンティック</strong></td>
                 <td>いきものがかり</td>
             </tr>
             <tr>
-                <td>12</td>
+                <td>12話</td>
                 <td><strong>ハナモヨイ</strong></td>
                 <td>オリジナル曲</td>
             </tr>
