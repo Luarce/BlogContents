@@ -11,8 +11,7 @@ $(function() {
 
     var $contents = $(".table-of-contents");
     var $li = $contents.find("li");
-    
-    // 目次のタイトルと切り替えボタンを追加
+
     $contents.prepend(
         '<span class="contents">' + contentsText + '</span>' +
         '<span class="switch">' + closeText + '</span>'
