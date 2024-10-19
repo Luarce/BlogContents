@@ -140,22 +140,16 @@ table {
 th,
 td {
     padding: 10px;
-    /* 内側の余白 */
     text-align: left;
-    /* 左寄せ */
-}
 
 thead {
     background-color: #007bff;
-    /* ヘッダーの背景色 */
 }
 
 tbody tr:nth-child(even) {
     background-color: #f2f2f2;
-    /* 偶数行の背景色 */
 }
 
 tbody tr:hover {
     background-color: #e0e0e0;
-    /* ホバー時の背景色 */
 }
