@@ -43,8 +43,8 @@
 </thead>
 <tbody>
 <tr>
-                <td>1話</td>
-                <td>学園天国</td>
+<td>1話</td>
+<td>学園天国</td>
                 <td>フィンガー5</td>
             </tr>
             <tr>
