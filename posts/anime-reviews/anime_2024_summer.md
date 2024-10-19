@@ -19,7 +19,6 @@ $(function() {
 
     var $switch = $contents.find(".switch");
 
-    // 切り替えボタンクリック時の処理
     $switch.on("click", function() {
         var isHidden = $li.is(":hidden");
         $li.toggle(400);
