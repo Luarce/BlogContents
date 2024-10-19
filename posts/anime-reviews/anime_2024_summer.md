@@ -63,7 +63,7 @@ $(function(){
 <span style="color: #d32f2f">
 <strong>ED一覧（※ネタバレ注意）</strong>
 </span>
-<span style=> [クリックで展開]
+<span style="font-style:underline"> [クリックで展開]
 </span>
 </summary>
 
