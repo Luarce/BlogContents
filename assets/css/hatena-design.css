@@ -4,6 +4,7 @@
 
 /* スマホでの表示 */
 @media (max-width: 767px) {
+
     .entry-content,
     .contents,
     .switch,
@@ -17,63 +18,85 @@
 .contents {
     padding: 10px;
     font-weight: bold;
-    cursor: default; /* 見出し部分をクリックしても反応しないようにする */
+    cursor: default;
+    /* 見出し部分をクリックしても反応しないようにする */
 }
 
 .switch {
     text-decoration: underline;
     cursor: pointer;
-    margin-left: 10px; /* タイトルから少し間隔を空ける */
+    margin-left: 10px;
+    /* タイトルから少し間隔を空ける */
 }
 
 .table-of-contents {
-    padding-left: 20px; /* 全体にインデントを付ける */
+    padding-left: 20px;
+    /* 全体にインデントを付ける */
 }
 
 .table-of-contents li {
     list-style-type: decimal;
     margin-top: 5px;
-    margin-bottom: 5px; /* リスト項目間の余白を追加 */
+    margin-bottom: 5px;
+    /* リスト項目間の余白を追加 */
 }
 
 .table-of-contents ul {
     list-style-type: decimal;
-    padding-left: 20px; /* 子リストのインデントを明確にする */
+    padding-left: 20px;
+    /* 子リストのインデントを明確にする */
 }
 
 /* タイトル */
 .entry-title {
-    padding-left: 20px; /* 縦線の余白 */
-    border-left: 6px solid #1abc9c; /* タイトルの縦線色 */
-    font-size: 2em; /* タイトルの文字サイズ */
-    line-height: 1.4; /* 行の高さを調整 */
-    padding-top: 3px; /* タイトルの上の余白 */
+    padding-left: 20px;
+    /* 縦線の余白 */
+    border-left: 6px solid #1abc9c;
+    /* タイトルの縦線色 */
+    font-size: 2em;
+    /* タイトルの文字サイズ */
+    line-height: 1.4;
+    /* 行の高さを調整 */
+    padding-top: 3px;
+    /* タイトルの上の余白 */
 }
 
 /* h3, h4, h5の共通スタイル */
-h3, h4, h5 {
-    padding-left: 15px; /* 縦線の余白 */
-    border-left: 4px solid; /* 縦線の太さ */
-    padding-top: 10px; /* 上の余白 */
+h3,
+h4,
+h5 {
+    padding-left: 15px;
+    /* 縦線の余白 */
+    border-left: 4px solid;
+    /* 縦線の太さ */
+    padding-top: 10px;
+    /* 上の余白 */
 }
 
 /* h3のスタイル */
 h3 {
-    border-color: #3498db; /* 青色の縦線 */
-    font-size: 1.6em; /* h3の文字サイズ */
+    border-color: #3498db;
+    /* 青色の縦線 */
+    font-size: 1.6em;
+    /* h3の文字サイズ */
 }
 
 /* h4のスタイル */
 h4 {
-    border-color: #2ecc71; /* 緑色の縦線 */
-    font-size: 1.4em; /* h4の文字サイズ */
-    padding-top: 5px; /* 上の余白 */
+    border-color: #2ecc71;
+    /* 緑色の縦線 */
+    font-size: 1.4em;
+    /* h4の文字サイズ */
+    padding-top: 5px;
+    /* 上の余白 */
 }
 
 /* h5のスタイル */
 h5 {
-    border-color: #f39c12; /* オレンジ色の縦線 */
-    font-size: 1.2em; /* h5の文字サイズ */
+    border-color: #f39c12;
+    /* オレンジ色の縦線 */
+    font-size: 1.2em;
+    /* h5の文字サイズ */
 }
 
 /* アニメタイトル画像にキャプションをつける */
@@ -99,33 +122,45 @@ h5 {
 
 /* ネタバレ */
 .spoiler_details {
-    background-color: #f0f0f0; /* 明るい背景色 */
+    background-color: #f0f0f0;
+    /* 明るい背景色 */
     padding: 15px;
     border-radius: 5px;
-    border: 1px solid #ddd; /* やや薄いボーダー */
+    border: 1px solid #ddd;
+    /* やや薄いボーダー */
     color: #333;
-    margin-top: 10px; /* 上に余白を追加 */
+    margin-top: 10px;
+    /* 上に余白を追加 */
 }
 
 /* テーブルスタイル */
 table {
-    width: 100%; /* 幅を100%に設定 */
-    border-collapse: collapse; /* ボーダーを重ねて表示 */
+    background-color: white;
+    width: 100%;
+    /* 幅を100%に設定 */
+    border-collapse: collapse;
+    /* ボーダーを重ねて表示 */
 }
 
-th, td {
-    padding: 10px; /* 内側の余白 */
-    text-align: left; /* 左寄せ */
+th,
+td {
+    padding: 10px;
+    /* 内側の余白 */
+    text-align: left;
+    /* 左寄せ */
 }
 
 thead {
-    background-color: #007bff; /* ヘッダーの背景色 */
+    background-color: #007bff;
+    /* ヘッダーの背景色 */
 }
 
 tbody tr:nth-child(even) {
-    background-color: #f2f2f2; /* 偶数行の背景色 */
+    background-color: #f2f2f2;
+    /* 偶数行の背景色 */
 }
 
 tbody tr:hover {
-    background-color: #e0e0e0; /* ホバー時の背景色 */
+    background-color: #e0e0e0;
+    /* ホバー時の背景色 */
 }
