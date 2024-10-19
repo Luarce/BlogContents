@@ -79,6 +79,7 @@ $(function(){
 12. **ハナモヨイ**（オリジナル曲）
 
 ※全て[公式Youtubeチャンネル](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中
+
 [https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA]
 
 毎回EDが変わるので、今回はどの曲がカバーされるのかを期待させるつくりになっている。  
