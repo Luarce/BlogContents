@@ -78,7 +78,7 @@ $(function(){
 11. **気まぐれロマンティック**（いきものがかり）  
 12. **ハナモヨイ**（オリジナル曲）
 
-※全て[__公式Youtubeチャンネル_](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中  
+※全て[_公式Youtubeチャンネル_](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中  
 
 [https://youtu.be/YbKqZF3wc5g?si=DOoxVa0mh796s78G:embed]  
 
