@@ -92,7 +92,9 @@ $(function(){
 
 
 ### 2.5次元の誘惑
-![©橋本悠／集英社・リリサ製作委員会]()
+<div class="anime_title">
+    <img class="anime_image" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/roshidere_title.png" alt="時々ボソッとロシア語でデレる隣のアーリャさん">
+    <div class="anime_caption">
 
 編集時点で2クールの内１クールしか放送されていないため保留
 
