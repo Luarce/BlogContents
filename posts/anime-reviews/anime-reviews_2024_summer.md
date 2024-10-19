@@ -36,7 +36,7 @@
     <table>
         <thead>
             <tr>
-                <th><strong>話数</strong></th>
+                <th>話数</th>
                 <th>曲名</th>
                 <th>アーティスト</th>
             </tr>
