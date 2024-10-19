@@ -78,12 +78,12 @@
                 <td>小田和正</td>
             </tr>
             <tr>
-                <td>8</td>
+                <td>8話</td>
                 <td><strong>CHE.R.RY</strong></td>
                 <td>YUI</td>
             </tr>
             <tr>
-                <td>9</td>
+                <td>9話</td>
                 <td><strong>ワールドイズマイン</strong></td>
                 <td>ryo（supercell）</td>
             </tr>
