@@ -15,7 +15,6 @@
     padding: 2px;
     background-color: rgba(128, 128, 128, 0.7);
     color: white;
-    
     font-size: 13px;
     text-align:center;
 }
