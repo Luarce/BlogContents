@@ -1,6 +1,7 @@
 <style>
 .anime_title{
-    
+    position: relative; 
+    display: inline-block;
 }
 
 </style>
