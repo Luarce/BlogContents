@@ -122,8 +122,8 @@ h5 {
 
 /* ネタバレ */
 .spoiler_details {
-    background-color: #f0f0f0;
     /* 明るい背景色 */
+    background-color: #f0f0f0;
     padding: 15px;
     border-radius: 5px;
     border: 1px solid #ddd;
