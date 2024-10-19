@@ -109,6 +109,12 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 
 
 ### 負けヒロインが多すぎる！
+<div class="anime_title">
+    <img class="anime_image" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/nigoriri_title.png" alt="時々ボソッとロシア語でデレる隣のアーリャさん">
+    <div class="anime_caption">
+    ©橋本悠／集英社・リリサ製作委員会
+    </div>
+</div>
 ![©雨森たきび／小学館／マケイン応援委員会
 ](https://cdn-ak.f.st-hatena.com/images/fotolife/L/Luarce/20241014/20241014225906.png)
 
