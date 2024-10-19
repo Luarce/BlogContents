@@ -65,6 +65,7 @@ $(function(){
 
 <span style="text-decoration:underline;> [クリックで展開]
 </span>
+</span>
 </summary>
 
 1. **学園天国**（フィンガー5）  
