@@ -61,8 +61,8 @@ $(function(){
 <details style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
 <summary>
 <span style="color: #d32f2f">
-<strong>ED一覧（※ネタバレ注意）</strong><span style="text-decoration:underline;> [クリックで展開]
-</span>
+<strong>ED一覧（※ネタバレ注意）</strong>
+<span style="text-decoration:underline;> [クリックで展開]</span>
 </span>
 </summary>
 
