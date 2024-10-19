@@ -29,13 +29,13 @@
 
 <details class="spoiler_details">
 <summary>
-        <span style="color: #d32f2f">
-        <strong>ED一覧（※ネタバレ注意）</strong></span>
-        <u>[クリックで展開]</u>
-    </summary>
-    <table>
-        <thead>
-            <tr>
+<span style="color: #d32f2f">
+<strong>ED一覧（※ネタバレ注意）</strong></span>
+<u>[クリックで展開]</u>
+</summary>
+<table>
+<thead>
+<tr>
                 <th>話数</th>
                 <th>曲名</th>
                 <th>アーティスト</th>
