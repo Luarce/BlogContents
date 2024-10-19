@@ -3,6 +3,9 @@
     position: relative;
     display: inline-block;
 }
+/anime_figure{
+    
+}
 
 
 
