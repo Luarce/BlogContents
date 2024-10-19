@@ -28,70 +28,84 @@
 ここまで上坂すみれを酷使しているアニメは今まで無く、上坂すみれの代表作の一つと呼べるであろう。
 
 <details class="spoiler_details">
-<summary>
-<span style="color: #d32f2f">
-<strong>ED一覧（※ネタバレ注意）</strong></span>
-<u> [クリックで展開]</u>
-</summary>
+    <summary>
+        <span style="color: #d32f2f">
+        <strong>ED一覧（※ネタバレ注意）</strong></span>
+        <u>[クリックで展開]</u>
+    </summary>
+    <table>
+        <thead>
+            <tr>
+                <th>話数</th>
+                <th>曲名</th>
+                <th>アーティスト</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td><strong>学園天国</strong></td>
+                <td>フィンガー5</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><strong>可愛くてごめん</strong></td>
+                <td>HoneyWorks</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><strong>想い出がいっぱい</strong></td>
+                <td>H2O</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td><strong>ハレ晴レユカイ</strong></td>
+                <td>涼宮ハルヒの憂鬱ED</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td><strong>小さな恋の歌</strong></td>
+                <td>MONGOL800</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td><strong>秘密の言葉</strong></td>
+                <td>花譜 × ズーカラデル</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td><strong>ラブストーリーは突然に</strong></td>
+                <td>小田和正</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td><strong>CHE.R.RY</strong></td>
+                <td>YUI</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td><strong>ワールドイズマイン</strong></td>
+                <td>ryo（supercell）</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td><strong>こいのうた</strong></td>
+                <td>GO!GO!7188</td>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td><strong>気まぐれロマンティック</strong></td>
+                <td>いきものがかり</td>
+            </tr>
+            <tr>
+                <td>12</td>
+                <td><strong>ハナモヨイ</strong></td>
+                <td>オリジナル曲</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
 
-<table style="width: 100%; border-collapse: collapse;">
-    <thead>
-        <tr>
-            <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">曲名</th>
-            <th style="border: 1px solid #ccc; padding: 8px; text-align: left;">アーティスト</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">学園天国</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">フィンガー5</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">可愛くてごめん</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">HoneyWorks</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">想い出がいっぱい</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">H2O</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">ハレ晴レユカイ</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">涼宮ハルヒの憂鬱ED</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">小さな恋の歌</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">MONGOL800</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">秘密の言葉</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">花譜 × ズーカラデル</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">ラブストーリーは突然に</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">小田和正</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">CHE.R.RY</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">YUI</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">ワールドイズマイン</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">ryo（supercell）</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">こいのうた</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">GO!GO!7188</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">気まぐれロマンティック</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">いきものがかり</td>
-        </tr>
-        <tr>
-            <td style="border: 1px solid #ccc; padding: 8px;">ハナモヨイ</td>
-            <td style="border: 1px solid #ccc; padding: 8px;">オリジナル曲</td>
-        </tr>
-    </tbody>
-</table>
 
 ※全て[<u>公式Youtubeチャンネル</u>](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中  
 
