@@ -79,6 +79,7 @@ $(function(){
 12. **ハナモヨイ**（オリジナル曲）
 
 ※全て[公式Youtubeチャンネル](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中
+[https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA]
 
 毎回EDが変わるので、今回はどの曲がカバーされるのかを期待させるつくりになっている。  
 筆者は毎週リアルタイムで見ていたので「**この令和の時代にEDがハレ晴レユカイ！？**」と懐かしい気持ちになれたのは良い体験であった。
