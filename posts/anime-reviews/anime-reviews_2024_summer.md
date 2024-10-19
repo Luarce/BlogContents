@@ -28,7 +28,7 @@
 ここまで上坂すみれを酷使しているアニメは今まで無く、上坂すみれの代表作の一つと呼べるであろう。
 
 <details class="spoiler_details">
-<summary>
+    <summary>
         <span style="color: #d32f2f">
         <strong>ED一覧（※ネタバレ注意）</strong></span>
         <u>[クリックで展開]</u>
