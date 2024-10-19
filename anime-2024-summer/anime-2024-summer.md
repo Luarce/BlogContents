@@ -5,7 +5,7 @@
 
 ### 時々ボソッとロシア語でデレる隣のアーリャさん
 <div style="position: relative; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/uarce/BlogContents/refs/heads/main/anime-2024-summer/anime2024SummerImages/roshidere_title.png" alt="時々ボソッとロシア語でデレる隣のアーリャさん" style="display: block;">
+    <img src="https://raw.githubusercontent.com/Luarce/BlogContents/refs/heads/main/anime-2024-summer/anime2024SummerImages/roshidere_title.png" alt="時々ボソッとロシア語でデレる隣のアーリャさん" style="display: block;">
     <div style="position: absolute; bottom: 0; width:100%; background-color: rgba(128, 128, 128, 0.7); color: white; padding: 2px; font-size: 13px; text-align:center;">
     ©Sunsunsun,Momoco/KADOKAWA/Alya-sanPartners
     </div>
