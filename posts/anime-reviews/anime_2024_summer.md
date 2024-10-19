@@ -112,7 +112,7 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 <div class="anime_title">
     <img class="anime_image" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/makeine_title.png" alt="負けヒロインが多すぎる！">
     <div class="anime_caption">
-    ©橋本悠／集英社・リリサ製作委員会
+    ©雨森たきび／小学館／マケイン応援委員会
     </div>
 </div>
 ![©雨森たきび／小学館／マケイン応援委員会
