@@ -164,8 +164,7 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
             '<span class="switch">' + closeText + '</span>'
         );
 
-        var $switch = $contents.find(".switch");
-    
+        var $switch = $contents.find(".switch");    
         $switch.on("click", function() {
             var isHidden = $li.is(":hidden");
             $li.toggle(400);
