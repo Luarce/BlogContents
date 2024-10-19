@@ -30,6 +30,17 @@
     list-style-type: decimal;
 }
 
+/* h1のスタイル */
+h1 {
+    padding-left: 20px; /* 縦線の余白 */
+    border-left: 6px solid #1abc9c; /* タイトルの縦線色 */
+    font-size: 2em; /* タイトルの文字サイズ */
+    font-weight: bold; /* 太字 */
+    margin-bottom: 15px; /* 下の余白 */
+    line-height: 1.4; /* 行の高さを調整 */
+}
+
+
 /* h3, h4, h5の共通スタイル */
 h3, h4, h5 {
     padding-left: 15px; /* 縦線の余白 */
