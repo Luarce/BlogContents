@@ -1,24 +1,4 @@
-<style>
-.anime_title{
-    position: relative;
-    display: inline-block;
-}
 
-.anime_image{
-    display: block;
-}
-
-.anime_caption{
-    position: absolute;
-    bottom: 0;
-    width:100%;
-    padding: 2px;
-    background-color: rgba(128, 128, 128, 0.7);
-    color: white;
-    font-size: 13px;
-    text-align:center;
-}
-</style>
 
 自分が見た2024年夏アニメの感想を書いていく。  
 今期は何故かラブコメ学園ものが多い。
