@@ -48,12 +48,12 @@
                 <td>フィンガー5</td>
             </tr>
             <tr>
-                <td>2</td>
+                <td>2話</td>
                 <td><strong>可愛くてごめん</strong></td>
                 <td>HoneyWorks</td>
             </tr>
             <tr>
-                <td>3</td>
+                <td>3話</td>
                 <td><strong>想い出がいっぱい</strong></td>
                 <td>H2O</td>
             </tr>
