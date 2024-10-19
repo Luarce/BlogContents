@@ -64,6 +64,7 @@ $(function(){
 <strong>ED一覧（※ネタバレ注意）</strong>
 </span>
 <span> [クリックで展開]
+</span>
 </summary>
 
 1. **学園天国**（フィンガー5）  
