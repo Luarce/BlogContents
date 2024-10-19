@@ -38,11 +38,11 @@
 <tr>
 <th>話数</th>
 <th>曲名</th>
-                <th>アーティスト</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
+<th>アーティスト</th>
+</tr>
+</thead>
+<tbody>
+<tr>
                 <td>1話</td>
                 <td>学園天国</td>
                 <td>フィンガー5</td>
