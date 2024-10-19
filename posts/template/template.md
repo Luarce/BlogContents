@@ -2,6 +2,7 @@
 
 ### 見出し3
 
+<div style="text-align: center"><strong>おわり<strong></div>
 
 <!-- css関連 -->
 <style>
