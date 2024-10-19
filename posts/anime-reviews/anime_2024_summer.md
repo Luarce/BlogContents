@@ -58,7 +58,7 @@ $(function(){
 
 ここまで上坂すみれを酷使しているアニメは今まで無く、上坂すみれの代表作の一つと呼べるであろう。
 
-<details style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+<details style="background-color: #e0e0e0; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
 <summary>
 <span style="color: #d32f2f">
 <strong>ED一覧（※ネタバレ注意）</strong></span>
@@ -74,7 +74,7 @@ $(function(){
 7. **ラブストーリーは突然に**（小田和正）  
 8. **CHE.R.RY**（YUI）  
 9. **ワールドイズマイン**（ryo（supercell））  
-10. **こいのうた**（GO\!GO\!7188）  
+10. **こいのうた**（GO!GO!7188）  
 11. **気まぐれロマンティック**（いきものがかり）  
 12. **ハナモヨイ**（オリジナル曲）
 
@@ -89,6 +89,7 @@ $(function(){
 と懐かしい気持ちになれたのは良い体験であった。
 
 </details>
+
 
 なお、ストーリー自体は主人公が俺TUEEEEするだけの学園ラブコメだが、**アーリャ**や**周防有希**（主人公の妹）等のヒロイン達の魅力は十分引き出せていたように思える。  
 主人公やヒロインに思わせぶりな過去回想があったが、最終回まで特に掘り下げはなかった。
