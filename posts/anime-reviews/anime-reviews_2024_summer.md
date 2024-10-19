@@ -27,8 +27,6 @@
 
 ここまで上坂すみれを酷使しているアニメは今まで無く、上坂すみれの代表作の一つと呼べるであろう。
 
-
-
 <details class="spoiler_details">
     <summary>
         <span style="color: #d32f2f">
