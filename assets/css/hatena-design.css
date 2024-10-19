@@ -14,7 +14,7 @@
     }
 }
 
-body{
+body {
     background-color: white;
 }
 
@@ -137,8 +137,10 @@ h5 {
 /* テーブルスタイル */
 table {
     width: 100%;
-    border-collapse: collapse; /* ボーダーを重ねて表示 */
-    margin-top: 10px; /* 上部に余白を追加 */
+    border-collapse: collapse;
+    /* ボーダーを重ねて表示 */
+    margin-top: 10px;
+    /* 上部に余白を追加 */
 }
 
 th,
@@ -146,9 +148,11 @@ td {
     background-color: white;
     padding: 10px;
     text-align: left;
-    border: 1px solid #ddd; /* セルのボーダーを追加 */
+    border: 1px solid #ddd;
+    /* セルのボーダーを追加 */
 }
 
 thead {
-    background-color: #f8f8f8; /* ヘッダーの背景色 */
+    background-color: #f8f8f8;
+    /* ヘッダーの背景色 */
 }
