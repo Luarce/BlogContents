@@ -4,7 +4,7 @@
     display: inline-block;
 }
 
-.anime_figure{
+.anime_image{
     display: block;
 }
 
