@@ -1,6 +1,34 @@
 <style>
 @import url("../../assets/css/hatena-design.css");
 </style>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(function(){
+    var contents = "目次"
+    var close = "[ 閉じる ]"
+    var open = "[ 表示 ]"
+    
+    var contents = '<span class="contents">' + contents + '</span>'
+    var btn = '<span class="switch">' + close + '</span>'
+    var sw = '.switch'
+    var $contents = $(".table-of-contents")
+    var $li = $(".table-of-contents li")
+    
+    $($contents).prepend(contents + btn);
+    $(sw).click(function(){
+        var $click = $(this);
+        if($li.css('display') == 'none'){
+            $li.show(400),
+            $click.text(close);
+        }else{
+            $li.hide(400),
+            $click.text(open)
+        };
+    });
+});
+</script>
+
+<style>
 
 自分が見た2024年夏アニメの感想を書いていく。  
 今期は何故かラブコメ学園ものが多い。
