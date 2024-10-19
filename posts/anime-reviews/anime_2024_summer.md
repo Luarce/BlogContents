@@ -5,7 +5,7 @@
 }
 
 .anime_figure{
-    style="display: block;"
+    display: block;
 }
 
 
