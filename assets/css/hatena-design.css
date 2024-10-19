@@ -52,6 +52,10 @@
 }
 
 /*ネタバレ*/
-.spoiler_details{
-    background-color: #f0f0f0; padding: 10px; border-radius: 5px; border: 1px solid #ccc; color: #333;
+.spoiler_details {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color: #333;
 }
