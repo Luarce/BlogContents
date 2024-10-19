@@ -1,3 +1,7 @@
+/* <system section="theme" selected="smooth"> */
+@import url("/css/theme/smooth/smooth.css");
+/* </system> */
+
 .anime_title {
     position: relative;
     display: inline-block;
