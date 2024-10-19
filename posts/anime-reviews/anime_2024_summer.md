@@ -129,7 +129,12 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 4話が1つ目の区切りなので、とりあえず何も言わずに4話までは見てほしい。
 
 ### しかのこのこのここしたんたん
-
+<div class="anime_title">
+    <img class="anime_image" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/makeine_title.png" alt="負けヒロインが多すぎる！">
+    <div class="anime_caption">
+    ©雨森たきび／小学館／マケイン応援委員会
+    </div>
+</div>
 ![©おしおしお・講談社／日野南高校シカ部]()
 
 これの感想いる？  
