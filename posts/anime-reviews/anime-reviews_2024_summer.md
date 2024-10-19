@@ -68,12 +68,12 @@
                 <td>MONGOL800</td>
             </tr>
             <tr>
-                <td>6</td>
+                <td>6話</td>
                 <td><strong>秘密の言葉</strong></td>
                 <td>花譜 × ズーカラデル</td>
             </tr>
             <tr>
-                <td>7</td>
+                <td>7話</td>
                 <td><strong>ラブストーリーは突然に</strong></td>
                 <td>小田和正</td>
             </tr>
