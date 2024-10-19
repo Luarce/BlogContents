@@ -58,7 +58,7 @@ $(function(){
 
 ここまで上坂すみれを酷使しているアニメは今まで無く、上坂すみれの代表作の一つと呼べるであろう。
 
-<details class="spoiler" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; border: 1px solid #ccc; color: #333;">
+<details class="spoiler_de" style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; border: 1px solid #ccc; color: #333;">
 <summary>
 <span style="color: #d32f2f">
 <strong>ED一覧（※ネタバレ注意）</strong></span>
