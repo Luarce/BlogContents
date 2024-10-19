@@ -8,7 +8,9 @@
     display: block;
 }
 
-.anime
+.anime_caption{
+    
+}
 
 
 
