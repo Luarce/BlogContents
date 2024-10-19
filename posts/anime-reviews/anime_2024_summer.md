@@ -62,7 +62,7 @@ $(function(){
 <summary>
 <span style="color: #d32f2f">
 <strong>ED一覧（※ネタバレ注意）</strong></span>
-<span style=""> [クリックで展開]</span>
+<span style="font"> [クリックで展開]</span>
 </summary>
 
 1. **学園天国**（フィンガー5）  
