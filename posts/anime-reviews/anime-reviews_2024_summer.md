@@ -49,10 +49,10 @@
 </tr>
 <tr>
 <td>2話</td>
-                <td>可愛くてごめん</td>
-                <td>HoneyWorks</td>
-            </tr>
-            <tr>
+<td>可愛くてごめん</td>
+<td>HoneyWorks</td>
+</tr>
+<tr>
                 <td>3話</td>
                 <td>想い出がいっぱい</td>
                 <td>H2O</td>
