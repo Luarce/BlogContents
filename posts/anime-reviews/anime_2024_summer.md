@@ -12,9 +12,10 @@
     position: absolute;
     bottom: 0;
     width:100%;
+    
     background-color: rgba(128, 128, 128, 0.7);
     color: white;
-    padding: 2px;
+    
     font-size: 13px;
     text-align:center;
 }
