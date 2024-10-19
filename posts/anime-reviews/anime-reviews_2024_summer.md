@@ -58,12 +58,12 @@
                 <td>H2O</td>
             </tr>
             <tr>
-                <td>4</td>
+                <td>4話</td>
                 <td><strong>ハレ晴レユカイ</strong></td>
                 <td>涼宮ハルヒの憂鬱ED</td>
             </tr>
             <tr>
-                <td>5</td>
+                <td>5話</td>
                 <td><strong>小さな恋の歌</strong></td>
                 <td>MONGOL800</td>
             </tr>
