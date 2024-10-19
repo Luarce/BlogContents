@@ -99,10 +99,35 @@ h5 {
 
 /* ネタバレ */
 .spoiler_details {
-    background-color: #f0f0f0;
-    padding: 10px;
+    background-color: #f9f9f9; /* 明るい背景色 */
+    padding: 15px;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid #ddd; /* やや薄いボーダー */
     color: #333;
     margin-top: 10px; /* 上に余白を追加 */
 }
+
+/* テーブルスタイル */
+table {
+    width: 100%; /* 幅を100%に設定 */
+    border-collapse: collapse; /* ボーダーを重ねて表示 */
+}
+
+th, td {
+    padding: 10px; /* 内側の余白 */
+    text-align: left; /* 左寄せ */
+}
+
+thead {
+    background-color: #007bff; /* ヘッダーの背景色 */
+    color: white; /* ヘッダーの文字色 */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* 偶数行の背景色 */
+}
+
+tbody tr:hover {
+    background-color: #e0e0e0; /* ホバー時の背景色 */
+}
+
