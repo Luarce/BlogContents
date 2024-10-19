@@ -8,13 +8,13 @@ $(function(){
     var contents = "目次"
     var close = "[ 閉じる ]"
     var open = "[ 表示 ]"
-    
+
     var contents = '<span class="contents">' + contents + '</span>'
     var btn = '<span class="switch">' + close + '</span>'
     var sw = '.switch'
     var $contents = $(".table-of-contents")
     var $li = $(".table-of-contents li")
-    
+
     $($contents).prepend(contents + btn);
     $(sw).click(function(){
         var $click = $(this);
