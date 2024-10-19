@@ -145,5 +145,5 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 <div style="text-align: center">おわり</div>
 
 <footer>
-@import url()
+@import url(../)
 </footer>
