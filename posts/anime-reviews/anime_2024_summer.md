@@ -4,6 +4,8 @@
     display: inline-block;
 }
 
+
+
 </style>
 
 自分が見た2024年夏アニメの感想を書いていく。  
