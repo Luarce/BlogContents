@@ -2,9 +2,8 @@
 @import url("/css/theme/smooth/smooth.css");
 /* </system> */
 
-/*スマホでの表示*/
+/* スマホでの表示 */
 @media (max-width: 767px) {
-
     .entry-content,
     .contents,
     .switch,
@@ -18,16 +17,28 @@
 .contents {
     padding: 10px;
     font-weight: bold;
+    cursor: default; /* 見出し部分をクリックしても反応しないようにする */
 }
 
 .switch {
     text-decoration: underline;
     cursor: pointer;
+    margin-left: 10px; /* タイトルから少し間隔を空ける */
 }
 
-.table-of-contents li,
+.table-of-contents {
+    padding-left: 20px; /* 全体にインデントを付ける */
+}
+
+.table-of-contents li {
+    list-style-type: decimal;
+    margin-top: 5px;
+    margin-bottom: 5px; /* リスト項目間の余白を追加 */
+}
+
 .table-of-contents ul {
     list-style-type: decimal;
+    padding-left: 20px; /* 子リストのインデントを明確にする */
 }
 
 /* タイトル */
@@ -65,8 +76,7 @@ h5 {
     font-size: 1.2em; /* h5の文字サイズ */
 }
 
-
-/*アニメタイトル画像にキャプションをつける*/
+/* アニメタイトル画像にキャプションをつける */
 .anime_title {
     position: relative;
     display: inline-block;
@@ -82,16 +92,17 @@ h5 {
     width: 100%;
     padding: 2px;
     background-color: rgba(128, 128, 128, 0.7);
-    color: white;
+    color: #fff;
     font-size: 13px;
     text-align: center;
 }
 
-/*ネタバレ*/
+/* ネタバレ */
 .spoiler_details {
     background-color: #f0f0f0;
     padding: 10px;
     border-radius: 5px;
     border: 1px solid #ccc;
     color: #333;
+    margin-top: 10px; /* 上に余白を追加 */
 }
