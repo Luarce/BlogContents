@@ -28,42 +28,42 @@
 ここまで上坂すみれを酷使しているアニメは今まで無く、上坂すみれの代表作の一つと呼べるであろう。
 
 <details class="spoiler_details">
-<summary>
-<span style="color: #d32f2f">
-<strong>ED一覧（※ネタバレ注意）</strong></span>
-<u>[クリックで展開]</u>
-</summary>
-<table>
-<thead>
-<tr>
-<th>話数</th>
-<th>曲名</th>
-<th>アーティスト</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1話</td>
-<td>学園天国</td>
-<td>フィンガー5</td>
-</tr>
-<tr>
-<td>2話</td>
-<td>可愛くてごめん</td>
-<td>HoneyWorks</td>
-</tr>
-<tr>
-<td>3話</td>
-<td>想い出がいっぱい</td>
-<td>H2O</td>
-</tr>
-<tr>
-<td>4話</td>
-<td>ハレ晴レユカイ</td>
-<td>涼宮ハルヒの憂鬱ED</td>
-</tr>
-<tr>
-<td>5話</td>
+    <summary>
+        <span style="color: #d32f2f">
+        <strong>ED一覧（※ネタバレ注意）</strong></span>
+        <u>[クリックで展開]</u>
+    </summary>
+    <table>
+        <thead>
+            <tr>
+                <th>話数</th>
+                <th>曲名</th>
+                <th>アーティスト</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1話</td>
+                <td>学園天国</td>
+                <td>フィンガー5</td>
+            </tr>
+            <tr>
+                <td>2話</td>
+                <td>可愛くてごめん</td>
+                <td>HoneyWorks</td>
+            </tr>
+            <tr>
+                <td>3話</td>
+                <td>想い出がいっぱい</td>
+                <td>H2O</td>
+            </tr>
+            <tr>
+                <td>4話</td>
+                <td>ハレ晴レユカイ</td>
+                <td>涼宮ハルヒの憂鬱ED</td>
+            </tr>
+            <tr>
+                <td>5話</td>
                 <td>小さな恋の歌</td>
                 <td>MONGOL800</td>
             </tr>
@@ -98,12 +98,12 @@
                 <td>いきものがかり</td>
             </tr>
             <tr>
-<td>12話</td>
-<td>ハナモヨイ</td>
-<td>オリジナル曲</td>
-</tr>
-</tbody>
-</table>
+                <td>12話</td>
+                <td>ハナモヨイ</td>
+                <td>オリジナル曲</td>
+            </tr>
+        </tbody>
+    </table>
 
 ※全て[<u>公式Youtubeチャンネル</u>](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中  
 
