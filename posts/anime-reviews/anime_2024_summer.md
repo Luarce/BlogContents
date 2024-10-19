@@ -58,7 +58,7 @@ $(function(){
 
 ここまで上坂すみれを酷使しているアニメは今まで無く、上坂すみれの代表作の一つと呼べるであろう。
 
-<details style="background-color: #e0e0e0; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
+<details style="background-color: #e0e0e0; padding: 10px; border-radius: 5px; border: 1px solid #ccc; color: #333;">
 <summary>
 <span style="color: #d32f2f">
 <strong>ED一覧（※ネタバレ注意）</strong></span>
@@ -89,6 +89,7 @@ $(function(){
 と懐かしい気持ちになれたのは良い体験であった。
 
 </details>
+
 
 
 なお、ストーリー自体は主人公が俺TUEEEEするだけの学園ラブコメだが、**アーリャ**や**周防有希**（主人公の妹）等のヒロイン達の魅力は十分引き出せていたように思える。  
