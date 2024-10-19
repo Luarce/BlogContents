@@ -1,6 +1,7 @@
 <style>
 @import url("../../assets/css/hatena-design.css");
 </style>
+
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
 $(function(){
@@ -28,7 +29,6 @@ $(function(){
 });
 </script>
 
-<style>
 
 自分が見た2024年夏アニメの感想を書いていく。  
 今期は何故かラブコメ学園ものが多い。
