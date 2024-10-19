@@ -145,7 +145,7 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 <div style="text-align: center">おわり</div>
 
 
-@import url("../../assets/html/footer.html")<!-- css関連 -->
+<!-- css関連 -->
 <style>
     @import url("../../assets/css/hatena-design.css");
     </style>
