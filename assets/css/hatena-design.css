@@ -2,6 +2,43 @@
 @import url("/css/theme/smooth/smooth.css");
 /* </system> */
 
+
+/*スマホでの表示*/
+@media (max-width: 767px) {
+
+    .entry-content,
+    .contents,
+    .switch,
+    .table-of-contents li,
+    .table-of-contents ul {
+        font-size: 16px;
+    }
+}
+
+/*スマホ以上での表示*/
+@media (min-width: 768px) {
+    .entry-content {
+        font-size: 16px;
+    }
+}
+
+/* 目次関連 */
+.contents {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.switch {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.table-of-contents li,
+.table-of-contents ul {
+    list-style-type: decimal;
+}
+
+/*アニメタイトル画像にキャプションをつける*/
 .anime_title {
     position: relative;
     display: inline-block;
@@ -20,20 +57,4 @@
     color: white;
     font-size: 13px;
     text-align: center;
-}
-
-/* 目次関連 */
-.contents {
-    padding: 10px;
-    font-weight: bold;
-}
-
-.switch {
-    text-decoration: underline;
-    cursor: pointer;
-}
-
-.table-of-contents li,
-.table-of-contents ul {
-    list-style-type: decimal;
 }
