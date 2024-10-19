@@ -12,7 +12,7 @@
     position: absolute;
     bottom: 0;
     width:100%;
-    
+    padding: 2px;
     background-color: rgba(128, 128, 128, 0.7);
     color: white;
     
