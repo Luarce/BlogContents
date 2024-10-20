@@ -44,7 +44,6 @@
   "gitdoc.autoPush": "onCommit",
   "gitdoc.enabled": true,
   "gitdoc.filePattern": "**/*",
-  "markdown-preview-enhanced.previewTheme": "none.css",
   "markdown.preview.doubleClickToSwitchToEditor": false,
   "markdown.preview.fontFamily": "Yu Gothic Medium",
   "markdown.preview.fontSize": 15,
