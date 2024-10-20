@@ -6,13 +6,18 @@
 
 本文
 
-<div style="text-align: center"><strong>おわり<strong></div>
+<div style="text-align: center"><strong>おわり</strong></div>
 
-<!-- css関連 -->
+<!-- 記事タイトル：アニメ感想（2024夏） -->
+
+<!-- サムネイル：https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/makeine_title.png -->
+
+<!-- css -->
 <style>
 @import url("../../assets/css/hatena-design.css");
 </style>
 
+<!-- js -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
 $(function() {
@@ -37,4 +42,3 @@ $(function() {
     });
 });
 </script>
-
