@@ -1,5 +1,5 @@
 <style>
-/* アニメタイトル画像にキャプションをつける */
+/* アニメタイトル画像にキャプションをつけるCSS */
 .anime_title {
     position: relative;
     display: inline-block;
