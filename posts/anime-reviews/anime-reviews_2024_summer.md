@@ -10,7 +10,9 @@
     aspect-ratio:16/9;
     max-width: 600px;
 }
-iframe
+iframe{
+    
+}
 
 </style>
 <div class="box_youtube">
