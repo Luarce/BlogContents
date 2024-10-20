@@ -1,9 +1,4 @@
-<div class="anime_title">
-    <img class="anime_image" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/makeine_title.png" alt="負けヒロインが多すぎる！">
-</div>
-
-自分が見た2024年夏アニメの感想を書いていく。  
-今期は何故かラブコメ学園ものが多い。  
+style="visibility: hidden;"
 
 
 [:contents]
