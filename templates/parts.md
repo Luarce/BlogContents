@@ -19,8 +19,6 @@
     font-size: 13px;
     text-align: center;
 }
-
-
 </style>
 
 <!-- アニメタイトル画像にキャプションをつける_md -->
