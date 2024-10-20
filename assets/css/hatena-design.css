@@ -144,6 +144,7 @@ thead {
     color: #fff;
     font-size: 13px;
     text-align: center;
+    aria-hidden:"true"
 }
 
 /* ネタバレ防止 */
