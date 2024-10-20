@@ -124,12 +124,7 @@
 
 
 ### 2.5次元の誘惑
-<div class="anime_title">
-    <img class="anime_image" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/nigoriri_title.png" alt="2.5次元の誘惑">
-    <div class="anime_caption">
-    ©橋本悠／集英社・リリサ製作委員会
-    </div>
-</div>
+
 
 編集時点で2クールの内1クールしか放送されていないため保留
 
