@@ -43,4 +43,4 @@
 ネタバレテキスト
 </details>
 
-<style></stylr>
+<style></style>
