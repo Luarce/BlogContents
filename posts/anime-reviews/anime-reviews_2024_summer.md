@@ -4,9 +4,6 @@
 [:contents]
 
 ### 時々ボソッとロシア語でデレる隣のアーリャさん
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fj2GF_Q_Fho?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」メインPV｜2024年7月3日(水)放送開始"></iframe>
-
 [https://youtu.be/Fj2GF_Q_Fho?si=zw2f3bTW_kCgXaX2:embed]
 
 通称**ロシデレ**。原作は角川スニーカー文庫のライトノベル。  
