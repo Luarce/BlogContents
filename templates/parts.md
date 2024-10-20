@@ -35,7 +35,7 @@
 
 
 ### ネタバレ防止
-<!--  -->
+<!-- md -->
 <details class="spoiler_details">
     <summary>
         <span style="color: #d32f2f">
