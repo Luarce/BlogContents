@@ -48,9 +48,6 @@
   "markdown.preview.fontFamily": "Yu Gothic Medium",
   "markdown.preview.fontSize": 15,
   "markdown.preview.lineHeight": 1.5,
-  "markdown.styles": [
-    "D:\\vsCode\\blogContents\\assets\\css\\hatena-design.css"
-  ],
   "markdownlint.config": {
     // # Docs
     // # https://github.com/DavidAnson/markdownlint/blob/a852407c887ec60949aa5365ed964bab833f962f/doc/Rules.md
