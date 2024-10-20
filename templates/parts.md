@@ -32,7 +32,7 @@
 }
 </style>
 
-
+### ネタバレ防止
 <details class="spoiler_details">
     <summary>
         <span style="color: #d32f2f">
