@@ -136,12 +136,7 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 
 
 ### 負けヒロインが多すぎる！
-<div class="anime_title">
-    <img class="anime_image" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/makeine_title.png" alt="負けヒロインが多すぎる！">
-    <div class="anime_caption">
-    ©雨森たきび／小学館／マケイン応援委員会
-    </div>
-</div>
+[https://youtu.be/uytJ6_KTCZI?si=xjICjbDc0zgSTzNT]
 
 個人的に今期の覇権アニメ。  
 タイトルの通り、負けヒロインである3人のヒロインそれぞれの葛藤・人間関係・成長を描いた物語。  
