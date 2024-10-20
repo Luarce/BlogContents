@@ -26,8 +26,9 @@
 .switch {
     text-decoration: underline;
     cursor: pointer;
-    margin-left: 10px;
     /* タイトルから少し間隔を空ける */
+    margin-left: 10px;
+    
 }
 
 .table-of-contents {
