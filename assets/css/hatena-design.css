@@ -2,6 +2,12 @@
 @import url("/css/theme/smooth/smooth.css");
 /* </system> */
 
+body,
+html {
+    background-color: #fff;
+    color: #000
+}
+
 /* スマホでの表示 */
 @media (max-width: 767px) {
 
