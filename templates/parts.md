@@ -31,3 +31,11 @@
     text-align: center;
 }
 </style>
+
+
+<details class="spoiler_details">
+    <summary>
+        <span style="color: #d32f2f">
+        <strong>ED一覧（※ネタバレ注意）</strong></span>
+        <u>[クリックで展開]</u>
+    </summary>
