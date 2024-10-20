@@ -8,9 +8,9 @@
 
 <div style="text-align: center"><strong>おわり</strong></div>
 
-<!-- 記事タイトル：アニメ感想（2024夏） -->
+<!-- 記事タイトル： -->
 
-<!-- サムネイル：https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/makeine_title.png -->
+<!-- サムネイル： -->
 
 <!-- css -->
 <style>
