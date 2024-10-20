@@ -39,8 +39,9 @@
 .table-of-contents li {
     list-style-type: decimal;
     margin-top: 5px;
+        /* リスト項目間の余白を追加 */
     margin-bottom: 5px;
-    /* リスト項目間の余白を追加 */
+
 }
 
 .table-of-contents ul {
