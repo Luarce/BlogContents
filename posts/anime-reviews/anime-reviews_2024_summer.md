@@ -4,12 +4,7 @@
 [:contents]
 
 ### 時々ボソッとロシア語でデレる隣のアーリャさん
-<div class="anime_title">
-    <img class="anime_image" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/roshidere_title.png" alt="時々ボソッとロシア語でデレる隣のアーリャさん">
-    <div class="anime_caption">
-    ©Sunsunsun,Momoco/KADOKAWA/Alya-sanPartners
-    </div>
-</div>
+[https://youtu.be/Fj2GF_Q_Fho?si=zw2f3bTW_kCgXaX2]]
 
 通称**ロシデレ**。原作は角川スニーカー文庫のライトノベル。  
 ジャンルとしては、中学校で生徒会役員を務めていたアニメオタクの主人公が、高校の生徒会で俺TUEEEEする**学園ラブコメ×頭脳戦**もの。
