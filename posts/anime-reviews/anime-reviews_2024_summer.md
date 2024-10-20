@@ -1,5 +1,5 @@
 
-@import "https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/css/hatena-design.css";
+@import url("https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/css/hatena-design.css";)
 
 自分が見た2024年夏アニメの感想を書いていく。  
 今期は何故かラブコメ学園ものが多い。  
