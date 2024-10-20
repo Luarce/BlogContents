@@ -18,8 +18,8 @@
 .contents {
     padding: 10px;
     font-weight: bold;
-    cursor: default;
     /* 見出し部分をクリックしても反応しないようにする */
+    cursor: default;
 }
 
 .switch {
