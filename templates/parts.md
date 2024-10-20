@@ -1,5 +1,8 @@
 <style>
 
+    
+</style>
+
 
 
 <div class="anime_title">
