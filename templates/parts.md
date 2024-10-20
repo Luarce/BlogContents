@@ -43,3 +43,4 @@
 ネタバレテキスト
 </details>
 
+<style></stylr>
