@@ -189,7 +189,6 @@ ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
 </head>
 
 <!-- css関連 -->
-<!-- css関連 -->
 <style>
 @import url("../../assets/css/hatena-design.css");
 </style>
