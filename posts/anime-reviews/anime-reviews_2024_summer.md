@@ -6,8 +6,8 @@
 ### 時々ボソッとロシア語でデレる隣のアーリャさん
 
 <style>
-box_youtube{
-    
+.box_youtube{
+
 }
 </style>
 <div class="box_youtube">
