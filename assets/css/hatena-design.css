@@ -118,7 +118,7 @@ thead {
     background-color: #f8f8f8; /* ヘッダーの背景色 */
 }
 
-/* ネタバレ */
+/* ネタバレ防止 */
 .spoiler_details {
     background-color: #f0f0f0;
     padding: 15px;
