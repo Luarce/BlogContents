@@ -9,6 +9,7 @@
 .box_youtube{
 max-width: 600px;
 }
+iframe
 
 </style>
 <div class="box_youtube">
