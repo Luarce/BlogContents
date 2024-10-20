@@ -4,7 +4,7 @@
 [:contents]
 
 ### 時々ボソッとロシア語でデレる隣のアーリャさん
-[https://youtu.be/Fj2GF_Q_Fho?si=zw2f3bTW_kCgXaX2]]
+[https://youtu.be/Fj2GF_Q_Fho?si=zw2f3bTW_kCgXaX2]
 
 通称**ロシデレ**。原作は角川スニーカー文庫のライトノベル。  
 ジャンルとしては、中学校で生徒会役員を務めていたアニメオタクの主人公が、高校の生徒会で俺TUEEEEする**学園ラブコメ×頭脳戦**もの。
