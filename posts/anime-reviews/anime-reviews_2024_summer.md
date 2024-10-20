@@ -6,14 +6,7 @@
 ### 時々ボソッとロシア語でデレる隣のアーリャさん
 
 <style>
-.box_youtube{
-    aspect-ratio:16/9;
-    max-width: 600px;
-}
-iframe{
-  width: 100%;
-  height: 100%;
-}
+
 </style>
 
 <div class="box_youtube">
