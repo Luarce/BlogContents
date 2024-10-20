@@ -32,6 +32,7 @@
 }
 </style>
 
+
 ### ネタバレ防止
 
 <details class="spoiler_details">
