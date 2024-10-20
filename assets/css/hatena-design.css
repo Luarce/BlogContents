@@ -32,8 +32,8 @@
 }
 
 .table-of-contents {
-    padding-left: 20px;
     /* 全体にインデントを付ける */
+    padding-left: 20px;
 }
 
 .table-of-contents li {
