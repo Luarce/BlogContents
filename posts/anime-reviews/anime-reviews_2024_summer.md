@@ -183,7 +183,7 @@ ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
 
 <!-- 記事タイトル：アニメ感想（2024夏） -->
 
-<!-- サムネイル：https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/makeine_title.png-->
+<!-- サムネイル：https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/makeine_title.png -->
 
 <!-- css -->
 <style>
