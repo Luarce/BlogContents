@@ -34,7 +34,7 @@
 <details class="spoiler_details">
     <summary>
         <span style="color: #d32f2f">
-        ED一覧（※ネタバレ注意）</span>
+        <strong>ED一覧（※ネタバレ注意）<></span>
         <u>[クリックで展開]</u>
     </summary>
     <table>
