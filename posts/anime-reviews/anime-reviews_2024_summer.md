@@ -181,6 +181,7 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 
 <div style="text-align: center"><strong>おわり</strong></div>
 
+<!--  -->
 <head>
 <meta property="og:image" content="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/makeine_title.png">
 </head>
