@@ -1,6 +1,35 @@
 <style>
+/* アニメタイトル画像にキャプションをつける */
+.anime_title {
+    position: relative;
+    display: inline-block;
+}
 
-    
+.anime_image {
+    display: block;
+}
+
+.anime_caption {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 2px;
+    background-color: rgba(128, 128, 128, 0.7);
+    color: #fff;
+    font-size: 13px;
+    text-align: center;
+}
+
+/* ネタバレ */
+.spoiler_details {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    color: #333;
+    margin-top: 10px;
+}
+
 </style>
 
 
