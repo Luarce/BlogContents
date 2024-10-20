@@ -20,15 +20,7 @@
     text-align: center;
 }
 
-/* ネタバレ */
-.spoiler_details {
-    background-color: #f0f0f0;
-    padding: 15px;
-    border-radius: 5px;
-    border: 1px solid #ddd;
-    color: #333;
-    margin-top: 10px;
-}
+
 </style>
 
 <!-- アニメタイトル画像にキャプションをつける_md -->
