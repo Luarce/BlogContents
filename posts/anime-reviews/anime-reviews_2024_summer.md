@@ -8,7 +8,7 @@
 <style>
 .box_youtube{
 aspect-ratio: 16 / 9;
-  max-width: 600px;
+max-width: 600px;
 }
 iframe
 
