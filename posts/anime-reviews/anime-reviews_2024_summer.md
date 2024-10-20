@@ -182,7 +182,6 @@ ED曲**Watch Me**がテンポ良く個人的にかなり好み。
 <div style="text-align: center"><strong>おわり</strong></div>
 
 <!-- 記事名：アニメ感想（2024夏） -->
-<!--  -->
 
 <!-- サムネイル関連 -->
 <head>
