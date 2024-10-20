@@ -8,6 +8,7 @@
     ©Sunsunsun,Momoco/KADOKAWA/Alya-sanPartners
     </div>
 </div>
+
 <!-- css -->
 <style>
 /* アニメタイトル画像にキャプションをつける */
