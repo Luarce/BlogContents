@@ -6,7 +6,9 @@
 ### 時々ボソッとロシア語でデレる隣のアーリャさん
 
 <style>
-box_youtube
+box_youtube{
+    
+}
 </style>
 <div class="box_youtube">
 [https://youtu.be/Fj2GF_Q_Fho?si=zw2f3bTW_kCgXaX2:embed]
