@@ -58,7 +58,7 @@
     display: block;
 }
 
-li:not(.normal-ul li):before {
+.demical-outineli :before {
     content: counters(item, ".") ". ";
     counter-increment: item;
 }
