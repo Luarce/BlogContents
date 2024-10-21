@@ -53,7 +53,7 @@
 /* 目次改造 */
 .table-of-contents　ol { counter-reset: item; 
 }
-li { display: block; }
+.table-of-contents　li { display: block; }
 li:before { content: counters(item, ".") " "; counter-increment: item; }
 
 
