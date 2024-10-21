@@ -131,6 +131,7 @@
 
 
 ### 2.5次元の誘惑
+<div class=box_youtube>
 [https://youtu.be/pN8EE8d9yYE:embed]
 
 編集時点で2クールの内1クールしか放送されていないため保留
