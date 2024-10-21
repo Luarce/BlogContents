@@ -22,16 +22,19 @@
     /* 見出し部分をクリックしても反応しないようにする */
     cursor: default;
 }
+
 .switch {
     text-decoration: underline;
     cursor: pointer;
     /* タイトルから少し間隔を空ける */
     margin-left: 10px;
 }
+
 .table-of-contents {
     /* 全体にインデントを付ける */
     padding-left: 20px;
 }
+
 .table-of-contents li {
     list-style-type: decimal;
     margin-top: 5px;
@@ -39,6 +42,7 @@
     /* リスト項目間の余白を追加 */
     margin-bottom: 5px;
 }
+
 .table-of-contents ul {
     list-style-type: decimal;
     padding-left: 20px;
@@ -46,16 +50,19 @@
 }
 
 ul {
-    counter-reset : item ;
-    list-style : none ;
-  }
-  li { display: block ; }
-  
-  li:before {
+    counter-reset: item;
+    list-style: none;
+}
+
+li {
+    display: block;
+}
+
+li:before {
     content: counters(item, ".") ". ";
-    counter-increment: item ;
-  }
-  
+    counter-increment: item;
+}
+
 
 /* タイトル */
 .entry-title {
