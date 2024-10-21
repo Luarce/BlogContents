@@ -146,6 +146,7 @@ ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
 ### 負けヒロインが多すぎる！
 <div class=box_youtube>
 [https://youtu.be/uytJ6_KTCZI?si=xjICjbDc0zgSTzNT:embed]
+</div>
 
 個人的に今期の覇権アニメ。  
 タイトルの通り、負けヒロインである3人のヒロインそれぞれの葛藤・人間関係・成長を描いた物語。  
