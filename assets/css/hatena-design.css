@@ -39,13 +39,11 @@
 
 .table-of-contents li {
     margin-top: 5px;
-
     /* リスト項目間の余白を追加 */
     margin-bottom: 5px;
 }
 
 .table-of-contents ul {
-
     /* 子リストのインデントを明確にする */
     padding-left: 20px;
 }
