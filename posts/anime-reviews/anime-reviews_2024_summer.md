@@ -133,7 +133,7 @@
 ### 2.5次元の誘惑
 <div class=box_youtube>
 [https://youtu.be/pN8EE8d9yYE:embed]
-
+</div>
 編集時点で2クールの内1クールしか放送されていないため保留
 
 ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
