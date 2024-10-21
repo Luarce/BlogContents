@@ -51,7 +51,7 @@
 }
 
 /* 目次改造 */
-.table-of-contents ol {
+.table-of-contents ul {
     counter-reset: item;
 }
 
