@@ -161,6 +161,7 @@ ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
 4話が1つ目の区切りなので、とりあえず何も言わずに4話までは見てほしい。
 
 ### しかのこのこのここしたんたん
+<div class=box_youtube>
 [https://youtu.be/ITFklIWu0Wg?si=LnQ_DAoxHWSiW1WE:embed]
 
 これの感想いる？  
