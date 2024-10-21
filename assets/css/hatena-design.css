@@ -52,7 +52,7 @@
 
 
 /* ulをolにし、連番を階層化 */
-/* no-style  */
+/* no-style */
 ul:not(.no-style) {
     counter-reset: item;
     list-style: none;
