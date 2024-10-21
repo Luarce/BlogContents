@@ -9,7 +9,7 @@
 [:contents]
 
 ### 時々ボソッとロシア語でデレる隣のアーリャさん
-<div>
+<div class=>
 [https://youtu.be/Fj2GF_Q_Fho?si=zw2f3bTW_kCgXaX2:embed]
 
 通称**ロシデレ**。原作は角川スニーカー文庫のライトノベル。  
