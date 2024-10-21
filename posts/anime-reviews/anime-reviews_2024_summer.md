@@ -5,6 +5,14 @@
 自分が見た2024年夏アニメの感想を書いていく。  
 今期は何故かラブコメ学園ものが多い。  
 
+<!-- Markdown内にHTMLでiframeを記述 -->
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/動画ID" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 
 [:contents]
 
