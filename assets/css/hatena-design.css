@@ -45,6 +45,25 @@
     /* 子リストのインデントを明確にする */
 }
 
+ul {
+    counter-reset : item ;
+    list-style : none ;
+  }
+  li { display: block ; }
+  
+  li:before {
+    content: counters(item, ".") ". ";
+    counter-increment: item ;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+
 /* タイトル */
 .entry-title {
     padding-left: 20px;
