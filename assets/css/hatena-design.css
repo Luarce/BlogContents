@@ -51,7 +51,7 @@
 }
 
 
-/* ulをolにし、連番を自動付与 */
+/* ulをolにし、連番を階層化 */
 ul:not(.no-style) {
     counter-reset: item;
     list-style: none;
