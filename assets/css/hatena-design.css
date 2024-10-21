@@ -49,7 +49,7 @@
 
 /* ulをolにし、連番を階層化 */
 /* <div Class="normal-ul"> </div> で回避可能 */
-ul:not(.normal-ul ul) {
+ul {
     counter-reset: item;
     list-style: none;
 }
