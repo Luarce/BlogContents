@@ -57,7 +57,7 @@ ul:not(.no-style) {
     list-style: none;
 }
 
-li {
+li:not(.no-style) {
     display: block;
 }
 
