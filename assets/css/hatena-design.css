@@ -54,7 +54,7 @@
     list-style: none;
 }
 
-li:not(.normal-ul li) {
+.demical-outine li {
     display: block;
 }
 
