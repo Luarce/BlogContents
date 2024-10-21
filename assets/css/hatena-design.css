@@ -77,9 +77,9 @@ li:before {
     
     /* タイトルの縦線色 */
     border-left: 6px solid #1abc9c;
-    /* タイトルの縦線色 */
-    font-size: 2em;
     /* タイトルの文字サイズ */
+    font-size: 2em;
+
     line-height: 1.4;
     /* 行の高さを調整 */
     padding-top: 3px;
