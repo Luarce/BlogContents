@@ -163,6 +163,7 @@ ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
 ### しかのこのこのここしたんたん
 <div class=box_youtube>
 [https://youtu.be/ITFklIWu0Wg?si=LnQ_DAoxHWSiW1WE:embed]
+</div>
 
 これの感想いる？  
 たまにあるパロディギャグアニメ。OPの「シカ色デイズ」が話題になりSNSでバズったが、内容が意味不明過ぎておそらくほとんどの人は最後まで見ていない。
