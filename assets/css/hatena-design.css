@@ -89,61 +89,61 @@ li:before {
 h3,
 h4,
 h5 {
-    padding-left: 15px;
     /* 縦線の余白 */
-    border-left: 4px solid;
+    padding-left: 15px;
     /* 縦線の太さ */
-    padding-top: 10px;
+    border-left: 4px solid;
     /* 上の余白 */
+    padding-top: 10px;
 }
 
 /* h3のスタイル */
 h3 {
-    border-color: #3498db;
     /* 青色の縦線 */
-    font-size: 1.6em;
+    border-color: #3498db;
     /* h3の文字サイズ */
+    font-size: 1.6em;
 }
 
 /* h4のスタイル */
 h4 {
-    border-color: #2ecc71;
     /* 緑色の縦線 */
-    font-size: 1.4em;
+    border-color: #2ecc71;
     /* h4の文字サイズ */
-    padding-top: 5px;
+    font-size: 1.4em;
     /* 上の余白 */
+    padding-top: 5px;
 }
 
 /* h5のスタイル */
 h5 {
-    border-color: #f39c12;
     /* オレンジ色の縦線 */
-    font-size: 1.2em;
+    border-color: #f39c12;
     /* h5の文字サイズ */
+    font-size: 1.2em;
 }
 
 /* テーブルスタイル */
 table {
+    /* ボーダーを重ねて表示 */
     width: 100%;
     border-collapse: collapse;
-    /* ボーダーを重ねて表示 */
-    margin-top: 10px;
     /* 上部に余白を追加 */
+    margin-top: 10px;
 }
 
 th,
 td {
+    /* セルのボーダーを追加 */
     background-color: white;
     padding: 10px;
     text-align: left;
     border: 1px solid #ddd;
-    /* セルのボーダーを追加 */
 }
 
 thead {
-    background-color: #f8f8f8;
     /* ヘッダーの背景色 */
+    background-color: #f8f8f8;
 }
 
 
