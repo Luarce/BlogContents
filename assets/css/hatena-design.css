@@ -52,7 +52,7 @@
 
 
 /* ulがolになる代わりに連番を自動付与 */
-ul {
+ul:not(.no-style) {
     counter-reset: item;
     list-style: none;
 }
