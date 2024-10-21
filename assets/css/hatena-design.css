@@ -46,8 +46,9 @@
 
 .table-of-contents ul {
     list-style-type: decimal;
-    padding-left: 20px;
     /* 子リストのインデントを明確にする */
+    padding-left: 20px;
+    
 }
 
 
