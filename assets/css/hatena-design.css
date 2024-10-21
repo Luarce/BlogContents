@@ -54,11 +54,11 @@
     list-style: none;
 }
 
-.demical-outine li {
+.decimal-outline li {
     display: block;
 }
 
-.demical-outine li:before {
+.decimal-outline li:before {
     content: counters(item, ".") ". ";
     counter-increment: item;
 }
