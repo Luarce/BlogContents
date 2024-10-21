@@ -50,22 +50,6 @@
     /* 子リストのインデントを明確にする */
 }
 
-/* 目次改造 */
-.table-of-contents ul {
-    counter-reset: item;
-}
-
-.table-of-contents li {
-    display: block;
-}
-
-.table-of-contents li:before {
-    content: counters(item, ".") " ";
-    counter-increment: item;
-}
-
-
-
 
 /* タイトル */
 .entry-title {
