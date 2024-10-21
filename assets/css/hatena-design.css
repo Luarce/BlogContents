@@ -14,10 +14,6 @@
     }
 }
 
-
-
-
-
 /* 目次関連 */
 .contents {
     padding: 10px;
@@ -53,6 +49,9 @@
     padding-left: 20px;
     /* 子リストのインデントを明確にする */
 }
+]
+
+
 
 /* タイトル */
 .entry-title {
