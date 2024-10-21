@@ -49,7 +49,7 @@
 
 /* ulをolにし、連番を階層化 */
 /* <div Class="normal-ul"> </div> で回避可能 */
-ul {
+demicalul {
     counter-reset: item;
     list-style: none;
 }
