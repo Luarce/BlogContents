@@ -128,7 +128,6 @@
 
 追記）2期の制作決定が発表された。主人公やヒロイン達の過去の更なる掘り下げが期待される。
 
-
 ### 2.5次元の誘惑
 <div class="box_youtube">
 [https://youtu.be/pN8EE8d9yYE:embed]
