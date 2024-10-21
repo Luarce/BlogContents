@@ -131,7 +131,7 @@
 
 
 ### 2.5次元の誘惑
-<div class=box_youtube>
+<div class="box_youtube">
 [https://youtu.be/pN8EE8d9yYE:embed]
 </div>
 編集時点で2クールの内1クールしか放送されていないため保留
@@ -161,7 +161,7 @@ ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
 4話が1つ目の区切りなので、とりあえず何も言わずに4話までは見てほしい。
 
 ### しかのこのこのここしたんたん
-<div class=box_youtube>
+<div class="box_youtube">
 [https://youtu.be/ITFklIWu0Wg?si=LnQ_DAoxHWSiW1WE:embed]
 </div>
 これの感想いる？  
