@@ -53,11 +53,6 @@ ul.table-of-contents,.table-of-contents ul {
     counter-reset: item;
     list-style: none;
 }
-
-.table-of-contents li {
-    display: block;
-}
-
 .table-of-contents li:before {
     content: counters(item, ".") ". ";
     counter-increment: item;
