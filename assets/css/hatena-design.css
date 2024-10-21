@@ -66,10 +66,6 @@ li:before:not(.no-style) {
     counter-increment: item;
 }
 
-ul.no-style,li.no-style{
-    list-style-type: none;
-}
-
 
 /* タイトル */
 .entry-title {
