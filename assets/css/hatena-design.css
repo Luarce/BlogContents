@@ -74,16 +74,16 @@ li:before {
 .entry-title {
     /* 縦線の余白 */
     padding-left: 20px;
-    
+
     /* タイトルの縦線色 */
     border-left: 6px solid #1abc9c;
     /* タイトルの文字サイズ */
     font-size: 2em;
-/* 行の高さを調整 */
+    /* 行の高さを調整 */
     line-height: 1.4;
     /* タイトルの上の余白 */
     padding-top: 3px;
-    
+
 }
 
 
