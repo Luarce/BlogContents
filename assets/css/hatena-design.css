@@ -61,7 +61,7 @@ li:not(.no-style) {
     display: block;
 }
 
-li:before {
+li:before:not(.no-style) {
     content: counters(item, ".") ". ";
     counter-increment: item;
 }
