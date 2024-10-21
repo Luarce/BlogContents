@@ -49,7 +49,12 @@
     padding-left: 20px;
     /* 子リストのインデントを明確にする */
 }
-]
+
+/* 目次改造 */
+ol { counter-reset: item; }
+li { display: block; }
+li:before { content: counters(item, ".") " "; counter-increment: item; }
+
 
 
 
