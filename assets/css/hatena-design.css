@@ -75,6 +75,7 @@ li:before {
     /* 縦線の余白 */
     padding-left: 20px;
     
+    /* タイトルの縦線色 */
     border-left: 6px solid #1abc9c;
     /* タイトルの縦線色 */
     font-size: 2em;
