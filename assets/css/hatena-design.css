@@ -58,7 +58,7 @@ li:not(.normal-ul li) {
     display: block;
 }
 
-li:before:not(.normal-ul li) {
+li:not(.normal-ul li):before {
     content: counters(item, ".") ". ";
     counter-increment: item;
 }
