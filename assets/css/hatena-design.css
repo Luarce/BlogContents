@@ -54,7 +54,7 @@
     list-style: none;
 }
 
-:not(.no-style) li {
+:not(.no-style li) li {
     display: block;
 }
 
