@@ -7,8 +7,8 @@
 
 <!-- Markdown内にHTMLでiframeを記述 -->
 <iframe
-    width="560" 
-    height="315" 
+    width="560"
+    height="315"
     src="https://youtu.be/Fj2GF_Q_Fho?si=zw2f3bTW_kCgXaX2" 
     frameborder="0" 
     allowfullscreen>
