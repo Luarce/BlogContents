@@ -81,9 +81,9 @@ li:before {
     font-size: 2em;
 /* 行の高さを調整 */
     line-height: 1.4;
-    
-    padding-top: 3px;
     /* タイトルの上の余白 */
+    padding-top: 3px;
+    
 }
 
 
