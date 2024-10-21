@@ -49,16 +49,16 @@
 
 /* ulをolにし、連番を階層化 */
 /* <div Class="normal-ul"> </div> で回避可能 */
-.decimal-outline ul {
+ul:not(.normal-ul ul) {
     counter-reset: item;
     list-style: none;
 }
 
-.decimal-outline li {
+li:not(.normal-ul li) {
     display: block;
 }
 
-.decimal-outline li:before {
+li:not(.normal-ul li):before {
     content: counters(item, ".") ". ";
     counter-increment: item;
 }
