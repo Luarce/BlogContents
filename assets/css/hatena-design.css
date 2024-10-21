@@ -67,7 +67,7 @@ li:before {
 }
 
 ul.no-style,li.no-style{
-    
+    list-style-type: none;
 }
 
 
