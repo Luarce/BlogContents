@@ -49,7 +49,7 @@
 
 /* ulをolにし、連番を階層化 */
 /* Class="no-style" で回避可 */
-:not(.no-style)　ul {
+:not(.no-style) ul {
     counter-reset: item;
     list-style: none;
 }
@@ -58,7 +58,7 @@
     display: block;
 }
 
-li:before {
+:not(.no-style) li:before {
     content: counters(item, ".") ". ";
     counter-increment: item;
 }
