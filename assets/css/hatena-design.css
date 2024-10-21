@@ -49,7 +49,7 @@
     /* 子リストのインデントを明確にする */
 }
 
-/*  */
+/* ulがolになる代わりに連番を自動付与 */
 ul {
     counter-reset: item;
     list-style: none;
