@@ -51,10 +51,18 @@
 }
 
 /* 目次改造 */
-.table-of-contents　ol { counter-reset: item; 
+.table-of-contents ol {
+    counter-reset: item;
 }
-.table-of-contents　li { display: block; }
-li:before { content: counters(item, ".") " "; counter-increment: item; }
+
+.table-of-contents li {
+    display: block;
+}
+
+.table-of-contents li:before {
+    content: counters(item, ".") " ";
+    counter-increment: item;
+}
 
 
 
