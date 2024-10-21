@@ -115,6 +115,7 @@
 
 <div class=box_youtube>
 [https://youtu.be/YbKqZF3wc5g?si=DOoxVa0mh796s78G:embed]  
+</div>
 
 毎回EDが変わるので、今回はどの曲がカバーされるのかを期待させるつくりになっている。
 
