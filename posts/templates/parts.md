@@ -89,5 +89,5 @@
 </style>
 
 <style>
-    import@ url(https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/css/hatena-design.css)
+    import@ url("https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/css/hatena-design.css")
 </style>
