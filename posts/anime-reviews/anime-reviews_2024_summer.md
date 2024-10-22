@@ -36,7 +36,7 @@
         <strong>ED一覧（※ネタバレ注意）</strong></span>
         <u>[クリックで展開]</u>
     </summary>
-    <table class=>
+    <table class="E">
         <thead>
             <tr>
                 <th>話数</th>
