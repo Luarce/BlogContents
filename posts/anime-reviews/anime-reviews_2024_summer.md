@@ -33,9 +33,12 @@
 
 <details class="spoiler_details">
     <summary>
-        <span style="color: #d32f2f">
-        <strong>ED一覧（※ネタバレ注意）</strong></span>
-        <u>[クリックで展開]</u>
+        <span style="color: #d32f2f"><strong>
+ED一覧（※ネタバレ注意）
+</strong></span>
+        <span style="color: #119E4D"><u>
+[ 展開 ]
+</u></span>
     </summary>
     <table class="ed_list">
         <thead>
@@ -208,7 +211,7 @@ ED 曲**Watch Me**がテンポ良く、個人的にかなり好み。
 $(function() {
     var contentsText = "目次";
     var closeText = "[ 閉じる ]";
-    var openText = "[ 表示 ]";
+    var openText = "[ 展開 ]";
 
     var $contents = $(".table-of-contents");
     var $li = $contents.find("li");
