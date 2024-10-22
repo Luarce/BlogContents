@@ -40,7 +40,6 @@
     font-size: 13px;
     text-align: center;
 }
-
 ```
 
 <!-- css -->
