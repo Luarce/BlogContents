@@ -1,7 +1,5 @@
 ### アニメタイトル画像にキャプションをつける
 
-<link rel="stylesheet" href="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/css/hatena-design.css">
-
 <!-- md -->
 <div class="anime_title">
     <img class="anime_image" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/images/anime-reviews/roshidere_title.png" alt="時々ボソッとロシア語でデレる隣のアーリャさん">
