@@ -90,5 +90,5 @@
 </style>
 
 <style>
-    @
+    @import 
     </style>
