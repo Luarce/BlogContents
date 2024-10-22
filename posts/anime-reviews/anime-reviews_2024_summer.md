@@ -37,8 +37,9 @@
         <u>[クリックで展開]</u>
     </summary>
 
-    <style></style>
-    
+    <style>
+    </style>
+
     <table class="ED">
         <thead>
             <tr>
