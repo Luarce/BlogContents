@@ -20,7 +20,6 @@
 ```
 #### css
 ```css
-/* アニメタイトル画像にキャプションをつける */
 .anime_title {
     position: relative;
     display: inline-block;
