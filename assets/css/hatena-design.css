@@ -144,6 +144,9 @@ thead {
     background-color: #f8f8f8;
 }
 
+img{
+    border: #333;
+}
 
 /* アニメタイトル画像にキャプションをつける */
 .anime_title {
