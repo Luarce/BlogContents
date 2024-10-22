@@ -42,7 +42,7 @@
     </div>
 </div>
 ```
-#### css
+#### CSS
 ```css
 .anime_title {
     position: relative;
