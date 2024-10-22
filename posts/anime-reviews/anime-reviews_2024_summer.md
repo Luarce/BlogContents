@@ -1,5 +1,5 @@
 <div class="anime_title">
-    <img class="anime_image" src="https://luarce.github.io/hatenablog-contents/main/assets/images/anime-reviews/adrenaline.jpg
+    <img class="anime_image" src="https://luarce.github.io/Luarce/hatenablog-contents/main/assets/images/anime-reviews/adrenaline.jpg
     " alt="負けヒロインが多すぎる！">
 </div>
 
