@@ -107,8 +107,7 @@
             </tr>
         </tbody>
     </table>
-
-    ※全て[<u>公式Youtubeチャンネル</u>](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中  
+※全て[<u>公式Youtubeチャンネル</u>](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中  
 
 <div class="box_youtube">
 [https://youtu.be/YbKqZF3wc5g?si=DOoxVa0mh796s78G:embed]
