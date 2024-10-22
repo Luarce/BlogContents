@@ -33,8 +33,6 @@
 }
 </style>
 
-
-
 #### markdown
 ```html
 <div class="anime_title">
