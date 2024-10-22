@@ -38,7 +38,7 @@
         </strong></span>
         <span style="color: #119E4D"><u>
         [ 展開 ]
-</u></span>
+        </u></span>
     </summary>
     <table class="ed_list">
         <thead>
