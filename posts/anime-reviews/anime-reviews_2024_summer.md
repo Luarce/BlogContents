@@ -36,8 +36,8 @@
         <strong>ED一覧（※ネタバレ注意）</strong></span>
         <u>[クリックで展開]</u>
     </summary>
-    <table style="text-align: center">
-        <thead>
+    <table>
+        <thead style="text-align: center">
             <tr>
                 <th>話数</th>
                 <th>曲名</th>
