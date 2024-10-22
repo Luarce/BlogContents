@@ -63,6 +63,8 @@ ul.table-of-contents,
     padding-left: 20px;
     /* タイトルの文字サイズ */
     font-size: 2em;
+    /* タイトルの縦線色 */
+    border-left: 6px solid #1abc9c;
     /* 行の高さを調整 */
     line-height: 1.4;
     /* タイトルの上の余白 */
