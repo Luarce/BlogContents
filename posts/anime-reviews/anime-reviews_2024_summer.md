@@ -1,4 +1,4 @@
-<img class="thumnail" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/main/assets/images/anime-reviews/makeine_title.png"
+<img class="thumbnail" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/main/assets/images/anime-reviews/makeine_title.png"
      alt="負けヒロインが多すぎる！">
 
 
