@@ -144,7 +144,7 @@ thead {
     background-color: #f8f8f8;
 }
 
-img{
+.entry img{
     /* 2pxの黒い実線の境界線 */
     border: 1px solid #000;
 }
