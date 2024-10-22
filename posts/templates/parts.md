@@ -1,5 +1,3 @@
-# HTML & CSS テンプレ集
-
 ### アニメタイトル画像にキャプションをつける
 <!-- md -->
 <div class="anime_title">
