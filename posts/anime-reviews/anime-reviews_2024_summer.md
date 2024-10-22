@@ -36,20 +36,77 @@
         <strong>ED一覧（※ネタバレ注意）</strong></span>
         <u>[クリックで展開]</u>
     </summary>
-   | 話数  | 曲名                     | アーティスト                      |　　
-   |-------|--------------------------|-----------------------------------|
-   | 1話   | 学園天国                 | フィンガー5                       |
-   | 2話   | 可愛くてごめん           | HoneyWorks                        |
-| 3話   | 想い出がいっぱい         | H2O                               |
-| 4話   | ハレ晴レユカイ           | 涼宮ハルヒの憂鬱ED               |
-| 5話   | 小さな恋の歌             | MONGOL800                        |
-| 6話   | 秘密の言葉               | 花譜 × ズーカラデル              |
-| 7話   | ラブストーリーは突然に   | 小田和正                         |
-| 8話   | CHE.R.RY                 | YUI                               |
-| 9話   | ワールドイズマイン       | ryo（supercell）                  |
-| 10話  | こいのうた               | GO!GO!7188                       |
-| 11話  | 気まぐれロマンティック   | いきものがかり                   |
-| 12話  | ハナモヨイ               | オリジナル曲                     |
+    <table>
+        <thead>
+            <tr>
+                <th>話数</th>
+                <th>曲名</th>
+                <th>アーティスト</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1話</td>
+                <td>学園天国</td>
+                <td>フィンガー5</td>
+            </tr>
+            <tr>
+                <td>2話</td>
+                <td>可愛くてごめん</td>
+                <td>HoneyWorks</td>
+            </tr>
+            <tr>
+                <td>3話</td>
+                <td>想い出がいっぱい</td>
+                <td>H2O</td>
+            </tr>
+            <tr>
+                <td>4話</td>
+                <td>ハレ晴レユカイ</td>
+                <td>涼宮ハルヒの憂鬱ED</td>
+            </tr>
+            <tr>
+                <td>5話</td>
+                <td>小さな恋の歌</td>
+                <td>MONGOL800</td>
+            </tr>
+            <tr>
+                <td>6話</td>
+                <td>秘密の言葉</td>
+                <td>花譜 × ズーカラデル</td>
+            </tr>
+            <tr>
+                <td>7話</td>
+                <td>ラブストーリーは突然に</td>
+                <td>小田和正</td>
+            </tr>
+            <tr>
+                <td>8話</td>
+                <td>CHE.R.RY</td>
+                <td>YUI</td>
+            </tr>
+            <tr>
+                <td>9話</td>
+                <td>ワールドイズマイン</td>
+                <td>ryo（supercell）</td>
+            </tr>
+            <tr>
+                <td>10話</td>
+                <td>こいのうた</td>
+                <td>GO!GO!7188</td>
+            </tr>
+            <tr>
+                <td>11話</td>
+                <td>気まぐれロマンティック</td>
+                <td>いきものがかり</td>
+            </tr>
+            <tr>
+                <td>12話</td>
+                <td>ハナモヨイ</td>
+                <td>オリジナル曲</td>
+            </tr>
+        </tbody>
+    </table>
 
 ※全て[<u>公式Youtubeチャンネル</u>](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中  
 
