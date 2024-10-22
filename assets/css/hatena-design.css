@@ -153,6 +153,7 @@ thead {
 
 .anime_image {
     display: block;
+    border: #333;
 }
 
 .anime_caption {
