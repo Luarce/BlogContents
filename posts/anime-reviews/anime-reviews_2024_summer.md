@@ -35,7 +35,7 @@
     <summary>
         <span style="color: #d32f2f"><strong>
         ED一覧（※ネタバレ注意）
-</strong></span>
+        </strong></span>
         <span style="color: #119E4D"><u>
 [ 展開 ]
 </u></span>
