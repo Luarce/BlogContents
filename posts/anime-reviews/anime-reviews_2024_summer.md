@@ -197,7 +197,7 @@ ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
 
 <!-- css -->
 <style>
-ED
+.ED_list 
 </style>
 
 <!-- js -->
