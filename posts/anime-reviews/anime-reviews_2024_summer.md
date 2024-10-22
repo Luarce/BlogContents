@@ -37,7 +37,7 @@
         <u>[クリックで展開]</u>
     </summary>
     <table>
-        <thead style="text-align: center">
+        <thead>
             <tr>
                 <th>話数</th>
                 <th>曲名</th>
