@@ -128,14 +128,8 @@ td {
     /* セルのボーダーを追加 */
     background-color: white;
     padding: 10px;
+    text-align: left;
     border: 1px solid #ddd;
-    text-align: center;
-}
-
-/* tableの一番左は改行無し */
-th:first-child,
-td:first-child {
-  white-space: nowrap;
 }
 
 thead {
