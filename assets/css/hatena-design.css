@@ -27,6 +27,7 @@
 .switch {
     text-decoration: underline;
     cursor: pointer;
+    color: #119E4D;
     /* タイトルから少し間隔を空ける */
     margin-left: 10px;
 }
@@ -144,13 +145,15 @@ thead {
     background-color: #f8f8f8;
 }
 
-body img {
+.entry-content img {
     border: 1px solid rgba(0, 0, 0, 0.5);
 }
 
-body a{
-    color: blue;
+.entry-content a {
+    color: #4287f5;
+    text-decoration: underline;
 }
+
 
 /* アニメタイトル画像にキャプションをつける */
 .anime_title {
