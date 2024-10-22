@@ -34,7 +34,7 @@
 <details class="spoiler_details">
     <summary>
         <span style="color: #d32f2f"><strong>
-ED一覧（※ネタバレ注意）
+        ED一覧（※ネタバレ注意）
 </strong></span>
         <span style="color: #119E4D"><u>
 [ 展開 ]
