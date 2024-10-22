@@ -36,10 +36,6 @@
         <strong>ED一覧（※ネタバレ注意）</strong></span>
         <u>[クリックで展開]</u>
     </summary>
-
-    <style>
-    </style>
-
     <table class="ED">
         <thead>
             <tr>
