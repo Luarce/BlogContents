@@ -201,11 +201,11 @@ ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
     text-align:center;
 }
 
-.ED_list tr:nth-child(1){
+.ED_list td:nth-child(1){
     text-align:right;
 }
 
-.ED_list tr:nth-child(2,3){
+.ED_list td:nth-child(2,3){
     text-align:center;
 }
 
