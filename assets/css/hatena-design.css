@@ -136,7 +136,7 @@ td {
 /* tableの一番左は改行無し */
 table th:first-child,
 table td:first-child {
-  white-space: nowrap;
+    white-space: nowrap;
 }
 
 thead {
@@ -144,7 +144,7 @@ thead {
     background-color: #f8f8f8;
 }
 
-.entry img{
+.entry img {
     border: 1px solid rgba(0, 0, 0, 0.5);
 }
 
