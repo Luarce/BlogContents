@@ -88,7 +88,3 @@
     margin-top: 10px;
 }
 </style>
-
-<style>
-    @import url(https://luarce.github.io/hatenablog-contents/assets/css/hatena-design.css)
-</style>
