@@ -1,8 +1,6 @@
 ### アニメタイトル画像にキャプションをつける
 
-<style>
-    @import url(https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/css/hatena-design.css);
-</style>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/Luarce/hatenablog-contents/refs/heads/main/assets/css/hatena-design.css">
 
 <!-- md -->
 <div class="anime_title">
