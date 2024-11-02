@@ -1,4 +1,3 @@
-@import "../../assets/css/hatena-design.css"
 <link href="https://kevinburke.bitbucket.io/markdowncss/markdown.css" rel="stylesheet"></link>
 
 
