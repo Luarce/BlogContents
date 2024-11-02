@@ -48,6 +48,11 @@
 ```
 #### CSS
 ```css
+/* 画像に枠線をつける */
+.entry-content img {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
 .anime_title {
     position: relative;
     display: inline-block;
