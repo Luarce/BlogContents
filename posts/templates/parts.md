@@ -10,6 +10,11 @@
 
 <!-- css -->
 <style>
+/* 画像に枠線をつける */
+.entry-content img {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
 /* アニメタイトル画像にキャプションをつける */
 .anime_title {
     position: relative;
