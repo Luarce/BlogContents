@@ -13,7 +13,7 @@
     - Windows Photo Viewer
   - サクラエディタ
   - Google Chrome
-  - Vis
+  - Visual Studio Code
 
 - はてなブログ執筆環境
   - chrome（ブラウザ）
