@@ -14,7 +14,8 @@
     }
 }
 html{
-
+    background-color: #ffffff !important; /* 白色の背景 */
+    color: #000000 !important; /* 文字色を黒に設定 */
 }
 
 /* 目次関連 */
