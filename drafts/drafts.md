@@ -11,7 +11,7 @@
   - サクラエディタ
   - レジストリ
     - 右クリックメニュー
-    - Windows
+    - Windows Photo Viewer
 
 - はてなブログ執筆環境
   - chrome（ブラウザ）
