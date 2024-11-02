@@ -145,7 +145,7 @@ thead {
     background-color: #f8f8f8;
 }
 
-/* 画像に枠線 */
+/* 画像に枠線をつける */
 .entry-content img {
     border: 1px solid rgba(0, 0, 0, 0.5);
 }
