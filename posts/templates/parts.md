@@ -10,7 +10,6 @@
 
 <!-- css -->
 <style>
-
 /* アニメタイトル画像にキャプションをつける */
 .anime_title {
     position: relative;
