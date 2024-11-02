@@ -23,6 +23,7 @@
 
 .anime_image {
     display: block;
+    border: 1px solid rgba(0, 0, 0, 0.5);
 }
 
 .anime_caption {
