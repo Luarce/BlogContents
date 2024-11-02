@@ -1,3 +1,6 @@
+<link href="../../assets/css/hatena-design.css" type="text/css" rel="stylesheet">
+
+
 <img class="thumbnail" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/main/assets/images/anime-reviews/makeine_title.png" alt="負けヒロインが多すぎる！">
 
 自分が見た2024年夏アニメの感想を書いていく。
