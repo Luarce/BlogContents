@@ -45,7 +45,7 @@
 });
 </script>
 
-<!-- はてなブログの目次に開閉 -->
+<!-- はてなブログの目次に開閉をつける -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js">
 </script>
 <script>
