@@ -11,9 +11,8 @@
   - レジストリ
     - 右クリックメニュー
     - Windows Photo Viewer
-
   - Google Chrome
-  -   - サクラエディタ
+  - サクラエディタ
   - Visual Studio Code
 
 - はてなブログ執筆環境
