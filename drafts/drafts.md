@@ -11,7 +11,7 @@
   - レジストリ
     - 右クリックメニュー
     - Windows Photo Viewer
-  - サクラエディタ
+
   - Google Chrome
   - Visual Studio Code
 
