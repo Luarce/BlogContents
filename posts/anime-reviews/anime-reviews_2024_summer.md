@@ -1,5 +1,5 @@
 @import "../../assets/css/hatena-design.css"
-
+<link href="https://kevinburke.bitbucket.io/markdowncss/markdown.css" rel="stylesheet"></link>
 
 
 <img class="thumbnail" src="https://raw.githubusercontent.com/Luarce/hatenablog-contents/main/assets/images/anime-reviews/makeine_title.png" alt="負けヒロインが多すぎる！">
