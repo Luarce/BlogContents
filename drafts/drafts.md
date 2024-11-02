@@ -12,6 +12,7 @@
     - 右クリックメニュー
     - Windows Photo Viewer
   - サクラエディタ
+  - 
 
 - はてなブログ執筆環境
   - chrome（ブラウザ）
