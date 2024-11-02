@@ -186,8 +186,3 @@ ED曲**Watch Me**がテンポ良く、個人的にかなり好み。
 <div style="text-align: center"><strong>おわり</strong></div>
 
 <!-- 記事タイトル：アニメ感想（2024夏） -->
-
-<!-- css -->
-<style>
-@import url("../../assets/css/hatena-design.css");
-</style>
