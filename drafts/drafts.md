@@ -13,6 +13,7 @@
     - Windows Photo Viewer
 
   - Google Chrome
+  -   - サクラエディタ
   - Visual Studio Code
 
 - はてなブログ執筆環境
