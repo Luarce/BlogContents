@@ -10,7 +10,7 @@
 
 <!-- css -->
 <style>
-/* 画像に枠線をつける */
+/* 記事内の画像に枠線をつける */
 .entry-content img {
     border: 1px solid rgba(0, 0, 0, 0.5);
 }
