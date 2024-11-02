@@ -1,7 +1,7 @@
-    ---
+
     id: "my-id"
     class: "my-class1 my-class2"
-    ---
+
 
     @import "style.less"
 
