@@ -2,7 +2,6 @@ body,
 .markdown-body {
     background-color: white;
     color: black;
-    /* テキストカラーの調整が必要な場合 */
 }
 
 .markdown-body h3 {
