@@ -4,6 +4,6 @@ body, .markdown-body {
     color: black; /* テキストカラーの調整が必要な場合 */
 }
 
-h3{
+.markdown-body h3{
     font-size: 20px;
 }
