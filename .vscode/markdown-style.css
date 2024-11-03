@@ -1,9 +1,11 @@
-body, .markdown-body {
+body,
+.markdown-body {
     font-size: 15px;
     background-color: white;
-    color: black; /* テキストカラーの調整が必要な場合 */
+    color: black;
+    /* テキストカラーの調整が必要な場合 */
 }
 
-.markdown-body h3{
-    font-size: 20px;
+.markdown-body h3 {
+    font-size: 25px;
 }
