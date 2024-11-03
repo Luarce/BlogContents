@@ -1,4 +1,4 @@
-body, .markdown-body {
+html {
     background-color: aliceblue;
     color: black; /* テキストカラーの調整が必要な場合 */
 }
