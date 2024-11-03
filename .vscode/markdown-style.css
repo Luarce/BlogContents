@@ -15,5 +15,5 @@ img {
 h3,
 h5 {
     padding-bottom: 0.4em !important;
-    border-bottom: solid 1px gray !important;
+    border-bottom: solid 1px gray;
 }
