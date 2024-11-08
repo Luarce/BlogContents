@@ -56,7 +56,7 @@
         - ハプニング
           - エネミー連続出現
           - お邪魔メビウス乱入
-      - ポ時計
+      - ポ時計https://github.com/Luarce/hatenablog-contents/blob/main/assets/images/anime-reviews/makeine_title.png
       - エンブレム・ヒーロー
 
 
