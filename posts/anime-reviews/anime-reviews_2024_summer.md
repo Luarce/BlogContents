@@ -45,7 +45,8 @@
             /* 表の要素は基本中央揃え */
             text-align: center;
             }
-            .ed_list td:nth-child(2), td:nth-child(3) {
+            .ed_list td:nth-child(2), 
+            td:nth-child(3) {
                 text-align: left;
             }
         </style>
