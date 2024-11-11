@@ -41,37 +41,14 @@
     </summary>
     <table class="ed_list">
         <style>
-                .ed_list {
-        width: 100%;
-        border-collapse: collapse; /* 枠線が重ならないように */
-    }
-    .ed_list th,
-    .ed_list td {
-        padding: 10px 15px; /* セル内の余白 */
-        text-align: center; /* デフォルトは中央揃え */
-    }
-    .ed_list td:nth-child(2),
-    .ed_list td:nth-child(3) {
-        text-align: left; /* 2列目と3列目を左揃え */
-    }
-    .ed_list th {
-        background-color: #f0f0f0; /* 見出し行の背景色 */
-        font-weight: bold; /* 見出しを太字に */
-        border-bottom: 2px solid #333; /* 見出しの下に太いボーダー */
-    }
-    .ed_list tr:nth-child(odd) {
-        background-color: #f9f9f9; /* 奇数行の背景色 */
-    }
-    .ed_list tr:nth-child(even) {
-        background-color: #ffffff; /* 偶数行の背景色 */
-    }
-    .ed_list td {
-        border: 1px solid #ddd; /* セルのボーダー */
-    }
-    .ed_list th,
-    .ed_list td {
-        border: 1px solid #ddd;
-    }
+            .ed_list td, th{
+            /* 表の要素は基本中央揃え */
+            text-align: center;
+            }
+            .ed_list td:nth-child(2),
+            .ed_list td:nth-child(3) {
+                text-align: left;
+            }
         </style>
             <thead>
                 <tr>
