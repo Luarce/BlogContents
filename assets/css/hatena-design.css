@@ -142,6 +142,10 @@ td:first-child {
     white-space: nowrap;
 }
 
+td:first-child {
+    text-align: center;
+}
+
 thead {
     /* ヘッダーの背景色 */
     background-color: #f8f8f8;
