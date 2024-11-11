@@ -41,10 +41,10 @@
     </summary>
     <table class="ed_list">
         <style>
-            .ed_list th{
+            th{
                 text-align: center;
             }
-            .ed_list td:nth-child(1) {
+            td:nth-child(1) {
                 text-align: center;
             }
         </style>
