@@ -32,7 +32,7 @@
 
 <details>
     <summary>
-        **<span style="color: #d32f2f">ED一覧（※ネタバレ注意）</span>**
+        <span style="color: #d32f2f">ED一覧（※ネタバレ注意）</span>
         <span style="color: #119E4D"><u>[ 展開 ]</u></span>
     </summary>
 
