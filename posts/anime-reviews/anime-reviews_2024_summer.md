@@ -42,7 +42,7 @@
     <table class="ed_list">
         <style>
             .ed_list td {
-                text-align: center;
+                text-align: left;
             }
             .ed_list td:first-child {
                 text-align: center;
