@@ -4,6 +4,6 @@
     ],
     "files.exclude": {
     "**/.git": true,
-    "**/.gitattributes": false
+    "**/.gitattributes": true,
   }
 }
