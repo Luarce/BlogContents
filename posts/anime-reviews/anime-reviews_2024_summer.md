@@ -41,7 +41,7 @@
     </summary>
     <table class="ed_list">
         <style>
-            .ed_list th, .ed_list td {
+            .ed_list td {
                 text-align: left;
             }
             .ed_list td:first-child {
