@@ -50,6 +50,7 @@
     | 10話| こいのうた    | GO!GO!7188               |
     | 11話| 気まぐれロマンティック | いきものがかり     |
     | 12話| ハナモヨイ    | 上坂すみれ<br>※オリジナル曲 |
+    
     ※すべて[公式Youtubeチャンネル](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中
 
     ![YouTube Video](https://youtu.be/YbKqZF3wc5g?si=DOoxVa0mh796s78G)
