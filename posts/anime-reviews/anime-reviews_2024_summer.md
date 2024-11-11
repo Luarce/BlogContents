@@ -32,9 +32,9 @@
 
 <details class="spoiler_details">
     <summary>
-        <span style="color: #d32f2f"><strong>
+        <span style="color: #d32f2f"><b>
         ED一覧（※ネタバレ注意）
-        </strong></span>
+        </b></span>
         <span style="color: #119E4D"><u>
         [ 展開 ]
         </u></span>
