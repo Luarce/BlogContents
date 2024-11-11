@@ -132,6 +132,7 @@ td {
 }
 
 th {
+    /* 列は中央揃え */
     text-align: center;
 }
 
