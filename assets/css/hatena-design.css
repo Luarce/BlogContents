@@ -137,8 +137,8 @@ th{
 }
 
 /* tableの一番左は改行無し */
-table th:first-child,
-table td:first-child {
+th:first-child,
+td:first-child {
     white-space: nowrap;
 }
 
