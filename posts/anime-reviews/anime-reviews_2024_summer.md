@@ -40,7 +40,8 @@
         </u></span>
     </summary>
     <table class="ed_list">
-            .ed_list {
+        <style>
+                .ed_list {
         width: 100%;
         border-collapse: collapse; /* 枠線が重ならないように */
     }
@@ -71,6 +72,7 @@
     .ed_list td {
         border: 1px solid #ddd;
     }
+        </style>
             <thead>
                 <tr>
                     <th>話</th>
