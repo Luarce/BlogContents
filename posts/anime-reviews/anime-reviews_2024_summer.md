@@ -30,7 +30,7 @@
 
 ここまで上坂すみれを酷使しているアニメは今まで無く、まさに上坂すみれの代表作の1つと言える。
 
-<details class="spoiler_details">
+<!-- <details class="spoiler_details">
     <summary>
         <span style="color: #d32f2f"><strong>
         ED一覧（※ネタバレ注意）
@@ -39,7 +39,7 @@
         [ 展開 ]
         </u></span>
     </summary>
-    <table class="ed_list">
+    <table class="ed_list"> -->
 
     <style>
         .ed_list th, .ed_list td {
