@@ -148,7 +148,7 @@ td:nth-child(1) {
     text-align: center;
 }
 
-tr:nth-child(odd) {
+tbody tr:nth-child(odd) {
     background-color: #f9f9f9; /* 奇数行の背景色 */
 }
 
