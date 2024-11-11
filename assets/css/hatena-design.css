@@ -140,6 +140,7 @@ th{
 th:first-child,
 td:first-child {
     white-space: nowrap;
+    text-align: center;
 }
 
 /* 一番左の列は中央揃え */
