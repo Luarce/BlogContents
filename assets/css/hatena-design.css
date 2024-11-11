@@ -131,7 +131,7 @@ td {
     border: 1px solid #ddd;
 }
 
-th{
+th {
     /* 列見出しは基本中央揃え */
     text-align: center;
 }
@@ -141,11 +141,6 @@ td:first-child {
     /* 一番左の列は改行無し */
     white-space: nowrap;
     /* 一番左の列は中央揃え */
-    text-align: center;
-}
-
-
-td:first-child {
     text-align: center;
 }
 
