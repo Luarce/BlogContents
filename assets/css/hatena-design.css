@@ -152,7 +152,7 @@ tbody tr:nth-child(odd) {
     background-color: #f9f9f9; /* 奇数行の背景色 */
 }
 
-tr:nth-child(even) {
+tbody tr:nth-child(even) {
     background-color: #ffffff; /* 偶数行の背景色 */
 }
 
