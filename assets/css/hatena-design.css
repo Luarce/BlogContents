@@ -136,7 +136,7 @@ th {
     text-align: center;
 }
 
-th:first-child,
+th:nth-child(1),
 td:first-child {
     /* 一番左の列は改行無し */
     white-space: nowrap;
