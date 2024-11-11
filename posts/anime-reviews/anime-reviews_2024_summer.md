@@ -41,12 +41,12 @@
     </summary>
     <table class="ed_list">
         <style>
-            .ed_list td, th{
+            .ed_list th{
             /* 表の要素は基本中央揃え */
             text-align: center;
             }
             .ed_list td:nth-child(1) {
-                text-align: left;
+                text-align: center;
             }
             .ed_list td:nth-child(2),
             .ed_list td:nth-child(3) {
