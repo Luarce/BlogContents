@@ -136,9 +136,9 @@ th{
     text-align: center;
 }
 
-
 th:first-child,
 td:first-child {
+    /* 一番左の列は改行無し */
     white-space: nowrap;
     /* 一番左の列は中央揃え */
     text-align: center;
