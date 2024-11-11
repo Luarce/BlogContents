@@ -148,14 +148,6 @@ td:nth-child(1) {
     text-align: center;
 }
 
-tbody tr:nth-child(odd) {
-    background-color: #f9f9f9; /* 奇数行の背景色 */
-}
-
-tbody tr:nth-child(even) {
-    background-color: #ffffff; /* 偶数行の背景色 */
-}
-
 thead {
     /* ヘッダーの背景色 */
     background-color: #f8f8f8;
