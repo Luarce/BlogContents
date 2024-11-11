@@ -41,7 +41,7 @@
     </summary>
     <table class="ed_list">
         <style>
-            .e{
+            .ed_list td{
             /* 表の要素は基本中央揃え */
             gn: center;
             }
