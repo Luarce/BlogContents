@@ -40,7 +40,7 @@
         </u></span>
     </summary>
     <table class="ed_list">
-
+    <table class="ed_list">
     <style>
         .ed_list th, .ed_list td {
             text-align: left;
