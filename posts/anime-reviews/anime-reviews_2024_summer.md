@@ -41,7 +41,7 @@
     </summary>
     <table class="ed_list">
         <style>
-            .ed_list tdnth-child(2) {
+            .ed_list td tdnth-child(2) {
                 text-align: left;
             }
         </style>
