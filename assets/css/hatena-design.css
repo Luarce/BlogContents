@@ -129,11 +129,12 @@ td {
     background-color: white;
     padding: 10px;
     border: 1px solid #ddd;
+    /* 列見出しは基本中央揃え */
+    text-align: center;
 }
 
 th {
-    /* 列見出しは基本中央揃え */
-    text-align: center;
+    
 }
 
 th:nth-child(1),
