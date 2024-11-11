@@ -41,6 +41,7 @@
     </summary>
     <table class="ed_list">
         <style>
+            
             .ed_list td nth-child(2) nth-child(3) {
                 text-align: left;
             }
