@@ -48,6 +48,7 @@
                 text-align: right;
             }
         </style>
+
             <thead>
                 <tr>
                     <th>話数</th>
