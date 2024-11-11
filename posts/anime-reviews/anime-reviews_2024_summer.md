@@ -180,7 +180,7 @@ ED**Watch Me**がテンポ良く、個人的にかなり好み。
 なんだかんだ最後まで見たが、最終回は鹿モチーフの某有名ゆるキャラが登場する等、アツい展開があり、作品が持てるポテンシャルは十分に発揮されていたような気がする。（小並感）
 
 
-<spa style="text-align: center"><strong>おわり</strong></spa>
+<div style="text-align: center"><strong>おわり</strong></div>
 
 <!-- 記事タイトル：アニメ感想（2024夏） -->
 
