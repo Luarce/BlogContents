@@ -137,8 +137,6 @@ th:nth-child(1),
 td:nth-child(1) {
     /* 一番左の列は改行無し */
     white-space: nowrap;
-    /* 一番左の列は中央揃え */
-    text-align: center;
 }
 
 thead {
