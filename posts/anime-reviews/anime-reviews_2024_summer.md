@@ -30,6 +30,40 @@
 
 ここまで上坂すみれを酷使しているアニメは今まで無く、まさに上坂すみれの代表作の1つと言える。
 
+<details>
+    <summary>
+        **<span style="color: #d32f2f">ED一覧（※ネタバレ注意）</span>**
+        <span style="color: #119E4D"><u>[ 展開 ]</u></span>
+    </summary>
+
+    | 話  | 曲            | アーティスト               |
+    | --- | ------------- | ------------------------- |
+    | 1話 | 学園天国      | フィンガー5                |
+    | 2話 | 可愛くてごめん | HoneyWorks                |
+    | 3話 | 想い出がいっぱい | H2O                    |
+    | 4話 | ハレ晴レユカイ | 涼宮ハルヒの憂鬱ED        |
+    | 5話 | 小さな恋の歌  | MONGOL800                 |
+    | 6話 | 秘密の言葉    | 花譜 × ズーカラデル        |
+    | 7話 | ラブストーリーは突然に | 小田和正            |
+    | 8話 | CHE.R.RY      | YUI                       |
+    | 9話 | ワールドイズマイン | ryo（supercell）      |
+    | 10話| こいのうた    | GO!GO!7188               |
+    | 11話| 気まぐれロマンティック | いきものがかり     |
+    | 12話| ハナモヨイ    | 上坂すみれ<br>※オリジナル曲 |
+
+    ※すべて[公式Youtubeチャンネル](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中
+
+    ![YouTube Video](https://youtu.be/YbKqZF3wc5g?si=DOoxVa0mh796s78G)
+
+    毎回EDが変わるので、今回はどの曲がカバーされるのかを期待させるつくりになっている。
+
+    筆者は毎週リアルタイムで見ていたので  
+    「**この令和の時代に ED がハレ晴レユカイ！？**」  
+    と懐かしい気持ちになれたのは良い体験であった。
+
+</details>
+****
+
 <details class="spoiler_details">
     <summary>
         <span style="color: #d32f2f"><strong>
