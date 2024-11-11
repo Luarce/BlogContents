@@ -30,7 +30,7 @@
 
 ここまで上坂すみれを酷使しているアニメは今まで無く、まさに上坂すみれの代表作の1つと言える。
 
-<!-- <details class="spoiler_details">
+<details class="spoiler_details">
     <summary>
         <span style="color: #d32f2f"><strong>
         ED一覧（※ネタバレ注意）
@@ -38,7 +38,7 @@
         <span style="color: #119E4D"><u>
         [ 展開 ]
         </u></span>
-    </summary> -->
+    </summary>
     <table class="ed_list">
 
     <style>
@@ -132,7 +132,7 @@
 「**この令和の時代に ED がハレ晴レユカイ！？**」  
 と懐かしい気持ちになれたのは良い体験であった。
 
-<!-- </details> -->
+</details>
 
 ちなみに、1話・2話は視聴者を繋ぎ止めるためか**着替え**・**パンチラ**等のテコ入れが多いが、それ以降は8話の**謎催眠回**を除いてまったくないので注意。
 
