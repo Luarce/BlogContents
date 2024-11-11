@@ -1,5 +1,8 @@
 {
     "markdown.styles": [
       ".vscode/markdown-style.css"
-    ]
+    ],
+    "files.exclude": {
+    "**/.git": false
+  }
 }
