@@ -45,7 +45,7 @@
                 text-align: left;
             }
             .ed_list td:first-child {
-                text-align: right;
+                text-align: middle;
             }
         </style>
             <thead>
