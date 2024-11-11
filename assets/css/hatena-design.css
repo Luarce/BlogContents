@@ -136,10 +136,11 @@ th{
     text-align: center;
 }
 
-/* 一番左の列は改行無し */
+
 th:first-child,
 td:first-child {
     white-space: nowrap;
+    /* 一番左の列は中央揃え */
     text-align: center;
 }
 
