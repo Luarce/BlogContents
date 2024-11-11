@@ -48,7 +48,7 @@
         .ed_list th:first-child, .ed_list td:first-child {
             text-align: right;
         }
-        
+    </style>
         <thead>
             <tr>
                 <th>話数</th>
