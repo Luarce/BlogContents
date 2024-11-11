@@ -30,36 +30,98 @@
 
 ここまで上坂すみれを酷使しているアニメは今まで無く、まさに上坂すみれの代表作の1つと言える。
 
-<details>
+<details class="spoiler_details">
     <summary>
-        <span style="color: #d32f2f">ED一覧（※ネタバレ注意）</span>
-        <span style="color: #119E4D"><u>[ 展開 ]</u></span>
+        <span style="color: #d32f2f"><strong>
+        ED一覧（※ネタバレ注意）
+        </strong></span>
+        <span style="color: #119E4D"><u>
+        [ 展開 ]
+        </u></span>
     </summary>
+    <table>
+            <thead>
+                <tr>
+                    <th>話</th>
+                    <th>曲</th>
+                    <th>アーティスト</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1話</td>
+                    <td>学園天国</td>
+                    <td>フィンガー5</td>
+                </tr>
+                <tr>
+                    <td>2話</td>
+                    <td>可愛くてごめん</td>
+                    <td>HoneyWorks</td>
+                </tr>
+                <tr>
+                    <td>3話</td>
+                    <td>想い出がいっぱい</td>
+                    <td>H2O</td>
+                </tr>
+                <tr>
+                    <td>4話</td>
+                    <td>ハレ晴レユカイ</td>
+                    <td>涼宮ハルヒの憂鬱ED</td>
+                </tr>
+                <tr>
+                    <td>5話</td>
+                    <td>小さな恋の歌</td>
+                    <td>MONGOL800</td>
+                </tr>
+                <tr>
+                    <td>6話</td>
+                    <td>秘密の言葉</td>
+                    <td>花譜 × ズーカラデル</td>
+                </tr>
+                <tr>
+                    <td>7話</td>
+                    <td>ラブストーリーは突然に</td>
+                    <td>小田和正</td>
+                </tr>
+                <tr>
+                    <td>8話</td>
+                    <td>CHE.R.RY</td>
+                    <td>YUI</td>
+                </tr>
+                <tr>
+                    <td>9話</td>
+                    <td>ワールドイズマイン</td>
+                    <td>ryo（supercell）</td>
+                </tr>
+                <tr>
+                    <td>10話</td>
+                    <td>こいのうた</td>
+                    <td>GO!GO!7188</td>
+                </tr>
+                <tr>
+                    <td>11話</td>
+                    <td>気まぐれロマンティック</td>
+                    <td>いきものがかり</td>
+                </tr>
+                <tr>
+                    <td>12話</td>
+                    <td>ハナモヨイ</td>
+                    <td>上坂すみれ<br>※オリジナル曲</td>
+                </tr>
+            </tbody>
+    </table>
 
-    | 話  | 曲            | アーティスト               |
-    | --- | ------------- | ------------------------- |
-    | 1話 | 学園天国      | フィンガー5                |
-    | 2話 | 可愛くてごめん | HoneyWorks                |
-    | 3話 | 想い出がいっぱい | H2O                    |
-    | 4話 | ハレ晴レユカイ | 涼宮ハルヒの憂鬱ED        |
-    | 5話 | 小さな恋の歌  | MONGOL800                 |
-    | 6話 | 秘密の言葉    | 花譜 × ズーカラデル        |
-    | 7話 | ラブストーリーは突然に | 小田和正            |
-    | 8話 | CHE.R.RY      | YUI                       |
-    | 9話 | ワールドイズマイン | ryo（supercell）      |
-    | 10話| こいのうた    | GO!GO!7188               |
-    | 11話| 気まぐれロマンティック | いきものがかり     |
-    | 12話| ハナモヨイ    | 上坂すみれ<br>※オリジナル曲 |
+※すべて[<u>公式Youtubeチャンネル</u>](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中
 
-    ※すべて[公式Youtubeチャンネル](https://www.youtube.com/channel/UCvNxYM7Cwrz8p7_WjzjxWcA)にて無料配信中
+<div class="box_youtube">
+[https://youtu.be/YbKqZF3wc5g?si=DOoxVa0mh796s78G:embed]
+</div>
 
-    ![YouTube Video](https://youtu.be/YbKqZF3wc5g?si=DOoxVa0mh796s78G)
+毎回EDが変わるので、今回はどの曲がカバーされるのかを期待させるつくりになっている。
 
-    毎回EDが変わるので、今回はどの曲がカバーされるのかを期待させるつくりになっている。
-
-    筆者は毎週リアルタイムで見ていたので  
-    「**この令和の時代に ED がハレ晴レユカイ！？**」  
-    と懐かしい気持ちになれたのは良い体験であった。
+筆者は毎週リアルタイムで見ていたので  
+「**この令和の時代に ED がハレ晴レユカイ！？**」  
+と懐かしい気持ちになれたのは良い体験であった。
 
 </details>
 
