@@ -42,8 +42,8 @@
     <table class="ed_list">
         <style>
             .e{
-                    /* 表の要素は基本中央揃え */
-    text-align: center;
+            /* 表の要素は基本中央揃え */
+            gn: center;
             }
             .ed_list td nth-child(2) nth-child(3) {
                 text-align: left;
