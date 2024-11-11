@@ -40,9 +40,6 @@
         </u></span>
     </summary>
     <table class="ed_list">
-        <style>
-
-        </style>
             <thead>
                 <tr>
                     <th>話</th>
