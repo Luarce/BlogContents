@@ -38,8 +38,8 @@
         <span style="color: #119E4D"><u>
         [ 展開 ]
         </u></span>
-    </summary>
-    <table class="ed_list"> -->
+    </summary> -->
+    <table class="ed_list">
 
     <style>
         .ed_list th, .ed_list td {
