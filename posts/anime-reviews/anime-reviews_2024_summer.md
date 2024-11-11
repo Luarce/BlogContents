@@ -47,7 +47,7 @@
         </style>
             <thead>
                 <tr>
-                    <th>話数</th>
+                    <th>話</th>
                     <th>曲</th>
                     <th>アーティスト</th>
                 </tr>
