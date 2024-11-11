@@ -44,7 +44,7 @@
             .ed_list th, .ed_list td {
                 text-align: left;
             }
-            .ed_list th:first-child, .ed_list td:first-child {
+            .ed_list td:first-child {
                 text-align: right;
             }
         </style>
