@@ -3,7 +3,7 @@
       ".vscode/markdown-style.css"
     ],
     "files.exclude": {
-    "**/.git": false,
+    "**/.git": true,
     "**/.gitattributes": false
   }
 }
