@@ -41,12 +41,7 @@
     </summary>
     <table class="ed_list">
         <style>
-            th{
-                text-align: center;
-            }
-            td:nth-child(1) {
-                text-align: center;
-            }
+
         </style>
             <thead>
                 <tr>
