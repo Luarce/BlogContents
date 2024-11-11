@@ -62,7 +62,7 @@
     と懐かしい気持ちになれたのは良い体験であった。
 
 </details>
-****
+
 
 <details class="spoiler_details">
     <summary>
