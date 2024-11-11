@@ -54,7 +54,7 @@
                     <th>曲名</th>
                     <th>アーティスト</th>
                 </tr>
-                </thead>
+            </thead>
         <tbody>
             <tr>
                 <td>1話</td>
