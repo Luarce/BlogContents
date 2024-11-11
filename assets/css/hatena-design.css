@@ -137,6 +137,7 @@ th{
 td:nth-child(1) {
     text-align: center;
 }
+
 th:nth-child(1),
 td:nth-child(1) {
     /* 一番左の列は改行無し */
