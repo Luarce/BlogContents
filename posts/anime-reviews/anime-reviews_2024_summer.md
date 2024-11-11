@@ -48,7 +48,7 @@
             <thead>
                 <tr>
                     <th>話数</th>
-                    <th>ED</th>
+                    <th>曲</th>
                     <th>アーティスト</th>
                 </tr>
             </thead>
