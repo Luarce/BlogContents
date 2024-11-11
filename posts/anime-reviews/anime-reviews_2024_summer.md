@@ -49,12 +49,12 @@
             }
         </style>
             <thead>
-            <tr>
-                <th>話数</th>
-                <th>曲名</th>
-                <th>アーティスト</th>
-            </tr>
-        </thead>
+                <tr>
+                    <th>話数</th>
+                    <th>曲名</th>
+                    <th>アーティスト</th>
+                </tr>
+                </thead>
         <tbody>
             <tr>
                 <td>1話</td>
