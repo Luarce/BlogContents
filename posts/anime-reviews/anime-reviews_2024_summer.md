@@ -39,7 +39,7 @@
         [ 展開 ]
         </u></span>
     </summary>
-    <table class="ed_list">
+    <table>
             <thead>
                 <tr>
                     <th>話</th>
