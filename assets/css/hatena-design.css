@@ -132,7 +132,8 @@ td {
 }
 
 th{
-    
+    /* 表の要素は基本中央揃え */
+    text-align: center;
 }
 
 /* tableの一番左は改行無し */
