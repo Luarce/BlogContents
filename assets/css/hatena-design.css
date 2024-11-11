@@ -131,7 +131,9 @@ td {
     border: 1px solid #ddd;
 }
 
-th
+th{
+    
+}
 
 /* tableの一番左は改行無し */
 table th:first-child,
