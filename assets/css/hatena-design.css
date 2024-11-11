@@ -131,6 +131,12 @@ td {
     border: 1px solid #ddd;
 }
 
+th{
+    text-align: center;
+}
+td:nth-child(1) {
+    text-align: center;
+}
 th:nth-child(1),
 td:nth-child(1) {
     /* 一番左の列は改行無し */
