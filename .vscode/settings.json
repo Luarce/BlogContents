@@ -1,8 +1,9 @@
 {
+    
     "markdown.styles": [
       ".vscode/markdown-style.css"
     ],
-    // VS Codeで非表示にするファイル
+    // VS Codeで非表示にするファイルを設定
     "files.exclude": {
     "**/.git": true,
     "**/.gitattributes": true,
