@@ -10,8 +10,6 @@
 
 <!-- 記事タイトル： -->
 
-<!-- サムネイル： -->
-
 <!-- css -->
 <style>
 @import url("../../assets/css/hatena-design.css");
