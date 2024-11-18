@@ -1,3 +1,14 @@
+body,
+.markdown-body {
+    background-color: white;
+    color: black;
+}
+
+/* コードブロックの背景色だけ例外設定 */
+.markdown-body pre,
+.markdown-body code {
+    background-color: black;
+}
 
 .markdown-body h3 {
     font-size: 22px;
