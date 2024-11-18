@@ -95,9 +95,3 @@
     margin-top: 10px;
 }
 </style>
-
-
-<!-- css -->
-<style>
-@import url("../assets/css/hatena-design.css");
-</style>
