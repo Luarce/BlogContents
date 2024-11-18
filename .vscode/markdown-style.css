@@ -5,7 +5,7 @@ body,
 }
 /* 全体の背景色に合わせてコードブロックの背景色を設定 */
 pre, code {
-    background-color: inherit; /* 背景色を親要素に合わせる */
+    background-color: none; /* 背景色を親要素に合わせる */
     border-radius: 4px; /* 角を少し丸くする (任意) */
     display: block; /* コードブロックをブロック要素にする */
 }
