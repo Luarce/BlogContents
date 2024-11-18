@@ -17,15 +17,15 @@
       - Windows Photo Viewer
         - 目的
         - 方法
-  - Google Chrome
-    - 目的
-    - 方法
-  - サクラエディタ
-    - 目的
-    - 方法
-  - Visual Studio Code
-    - 目的
-    - 方法
+    - Google Chrome
+      - 目的
+      - 方法
+    - サクラエディタ
+      - 目的
+      - 方法
+    - Visual Studio Code
+      - 目的
+      - 方法
 
 - はてなブログ執筆環境
   - chrome（ブラウザ）
