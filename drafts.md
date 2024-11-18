@@ -14,7 +14,7 @@
     - レジストリ
       - 右クリックメニュー
         - 目的
-          - 
+          - Windows
         - 方法
       - Windows Photo Viewer
         - 目的
