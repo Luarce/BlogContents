@@ -270,11 +270,11 @@ iframe {
     counter-reset: item;
     list-style: none;
 }
-
 #stoc li:before {
     content: counters(item, ".") ". ";
     counter-increment: item;
 }
+
 
 #stoc>ol {
     padding-left: 0;
