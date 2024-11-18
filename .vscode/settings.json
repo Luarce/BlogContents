@@ -11,6 +11,7 @@
     // "**/.htmlhintrc": true,
     },
     "cSpell.words": [
-      "stoc"
+      "stoc",
+      "tabindex"
     ]
 }
