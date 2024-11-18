@@ -13,13 +13,7 @@ pre, code {
     display: block; /* コードブロックをブロック要素にする */
 }
 
-/* 行内コードに追加の装飾を設定 (任意) */
-code {
-    padding: 0.2em 0.4em;
-    font-size: 90%;
-    border-radius: 3px;
-    background-color: rgba(0, 0, 0, 0.05); /* 背景色をわずかに変える */
-}
+
 
 
 .markdown-body h3 {
