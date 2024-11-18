@@ -14,6 +14,14 @@ body,
     font-size: 22px;
 }
 
+.markdown-body h3 {
+    font-size: 22px;
+}
+
+.markdown-body h3 {
+    font-size: 22px;
+}
+
 img {
     border: 1px solid rgba(0, 0, 0, 0.5);
 }
