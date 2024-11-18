@@ -78,7 +78,6 @@ ul.table-of-contents,
 /* 見出しに階層連番を付与する */
 h3, h4, h5 {
     counter-increment: section; /* 各見出しでカウントアップ */
-    position: relative; /* 見出しの相対位置を設定 */
   }
   
   /* h3タグに階層番号を表示 */
