@@ -16,8 +16,8 @@
       - 動機
       - やり方
   - Google Chrome
-      - 動機
-      - やり方
+    - 動機
+    - やり方
   - サクラエディタ
   - Visual Studio Code
 
