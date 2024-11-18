@@ -13,10 +13,10 @@
       - 目的
       - やり方
     - Windows Photo Viewer
-      - 動機
+      - 目的
       - やり方
   - Google Chrome
-    - 動機
+    - 目的
     - やり方
   - サクラエディタ
     - 動機
