@@ -10,6 +10,7 @@
 - 初期PCにインストールするソフト・設定一覧
   - レジストリ
     - 右クリックメニュー
+    - 
     - Windows Photo Viewer
   - Google Chrome
   - サクラエディタ
