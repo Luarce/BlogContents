@@ -267,12 +267,19 @@ iframe {
 
 /* 目次を階層連番にする */
 #stoc ol {
-    counter-reset: item;
-    list-style: none;
+    margin: 0;
+    padding-left: 1em;  /* 1段階目のリストの左側にスペースを確保 */
+    list-style-type: decimal; /* デフォルトの数字でリスト番号を表示 */
 }
-#stoc li:before {
-    content: counters(item, ".") ". ";
-    counter-increment: item;
+
+#stoc ol ol {
+    margin-left: 1.5em;  /* ネストしたリストのインデントを追加 */
+    list-style-type: lower-alpha; /* 2段階目のリストはアルファベット（a, b, c,...）で表示 */
+}
+
+#stoc ol ol ol {
+    margin-left: 2em;  /* 3段階目のリストはさらにインデントを追加 */
+    list-style-type: lower-roman; /* 3段階目はローマ数字（i, ii, iii,...）で表示 */
 }
 
 
