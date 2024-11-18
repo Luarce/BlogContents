@@ -10,6 +10,7 @@
     // "**/.gitattributes": true,
     // "**/.htmlhintrc": true,
     },
+
     // 辞書登録
     "cSpell.words": [
       "stoc",
