@@ -268,7 +268,7 @@ iframe {
 #stoc ol {
     margin: 0;
     padding: 0 0 0 1em;
-    /* list-style-type: none; */
+    list-style-type: none;
 }
 
 #stoc>ol {
