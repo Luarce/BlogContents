@@ -318,9 +318,3 @@ iframe {
     outline: 0;
 }
 
-/***目次サイドバースマホ非表示***/
-@media screen and (max-width:767px) {
-    #box2-inner .hatena-module:last-child {
-        display: none;
-    }
-}
