@@ -8,7 +8,6 @@ body,
 .markdown-body pre,
 .markdown-body code {
     background-color: black;
-    /* コードブロックの背景を透明に */
 }
 
 .markdown-body h3 {
