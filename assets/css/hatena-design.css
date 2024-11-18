@@ -114,63 +114,6 @@ h5 {
     font-size: 1.2em;
 }
 
-/* 見出しに階層連番を付与する */
-h3,
-h4,
-h5 {
-    counter-increment: section;
-    /* 各見出しでカウントアップ */
-    position: relative;
-    /* 見出しの相対位置を設定 */
-}
-
-/* h3タグに階層番号を表示 */
-h3::before {
-    content: counter(section) ". ";
-    /* 親のカウンターを表示 */
-    font-weight: bold;
-    position: absolute;
-    left: -2em;
-    /* 番号の位置調整 */
-    top: 0;
-}
-
-/* h4タグに階層番号を表示 */
-h4::before {
-    content: counter(section, decimal) "." counter(subsection) ". ";
-    /* h3の下に連番 */
-    counter-increment: subsection;
-    /* h4はh3の下でカウントアップ */
-    font-weight: bold;
-    position: absolute;
-    left: -3em;
-    /* 番号の位置調整 */
-    top: 0;
-}
-
-/* h5タグに階層番号を表示 */
-h5::before {
-    content: counter(section, decimal) "." counter(subsection) "." counter(subsubsection) ". ";
-    /* h4の下にさらに連番 */
-    counter-increment: subsubsection;
-    /* h5はh4の下でカウントアップ */
-    font-weight: bold;
-    position: absolute;
-    left: -4em;
-    /* 番号の位置調整 */
-    top: 0;
-}
-
-/* 各見出しの階層をリセット */
-h3 {
-    counter-reset: subsection;
-    /* h3が親となり、h4からのカウントをリセット */
-}
-
-h4 {
-    counter-reset: subsubsection;
-    /* h4が親となり、h5からのカウントをリセット */
-}
 
 
 /* テーブルスタイル */
@@ -194,12 +137,9 @@ th {
     /* 列見出しは中央揃え */
     text-align: center;
 
-    background-color: #f0f0f0;
-    /* 見出し行の背景色 */
-    font-weight: bold;
-    /* 見出しを太字に */
-    border-bottom: 2px solid #333;
-    /* 見出しの下に太いボーダー */
+    background-color: #f0f0f0; /* 見出し行の背景色 */
+    font-weight: bold; /* 見出しを太字に */
+    border-bottom: 2px solid #333; /* 見出しの下に太いボーダー */
 }
 
 th:nth-child(1),
