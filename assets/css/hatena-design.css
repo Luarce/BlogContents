@@ -211,6 +211,14 @@ iframe {
 /*-------------*/
 /*  追尾する目次  */
 /*-------------*/
+
+/* 目次サイドバーはスマホ側非表示 */
+@media screen and (max-width:767px) {
+    #box2-inner .hatena-module:last-child {
+        display: none;
+    }
+}
+
 #stoc-module {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
