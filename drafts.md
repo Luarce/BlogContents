@@ -10,13 +10,13 @@
 - 初期PCにインストールするソフト・設定一覧
   - 概要
   - Windows関連
-  - レジストリ
-    - 右クリックメニュー
-      - 目的
-      - 方法
-    - Windows Photo Viewer
-      - 目的
-      - 方法
+    - レジストリ
+      - 右クリックメニュー
+        - 目的
+        - 方法
+      - Windows Photo Viewer
+        - 目的
+        - 方法
   - Google Chrome
     - 目的
     - 方法
