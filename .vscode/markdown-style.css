@@ -13,9 +13,6 @@ pre, code {
     display: block; /* コードブロックをブロック要素にする */
 }
 
-
-
-
 .markdown-body h3 {
     font-size: 22px;
 }
