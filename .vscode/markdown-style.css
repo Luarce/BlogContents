@@ -3,6 +3,24 @@ body,
     background-color: white;
     color: black;
 }
+/* 全体の背景色に合わせてコードブロックの背景色を設定 */
+pre, code {
+    background-color: inherit; /* 背景色を親要素に合わせる */
+    color: inherit; /* テキスト色も親要素に合わせる */
+    border: 1px solid rgba(0, 0, 0, 0.2); /* 境界線を設定 (任意) */
+    padding: 0.5em; /* パディングを追加して見やすくする */
+    border-radius: 4px; /* 角を少し丸くする (任意) */
+    display: block; /* コードブロックをブロック要素にする */
+}
+
+/* 行内コードに追加の装飾を設定 (任意) */
+code {
+    padding: 0.2em 0.4em;
+    font-size: 90%;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.05); /* 背景色をわずかに変える */
+}
+
 
 .markdown-body h3 {
     font-size: 22px;
