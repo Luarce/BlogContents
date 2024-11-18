@@ -99,5 +99,5 @@
 
 <!-- css -->
 <style>
-@import url("../../assets/css/hatena-design.css");
+@import url("../assets/css/hatena-design.css");
 </style>
