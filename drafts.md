@@ -14,7 +14,7 @@
     - レジストリ
       - 右クリックメニュー
         - 目的
-          - Windows
+          - Windows11から、右クリック時に
         - 方法
       - Windows Photo Viewer
         - 目的
