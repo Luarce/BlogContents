@@ -7,7 +7,7 @@ body,
 /* コードブロックの背景色だけ例外設定 */
 .markdown-body pre,
 .markdown-body code {
-    background-color: black;
+    background-color: #1C1E23;
 }
 
 .markdown-body h3 {
