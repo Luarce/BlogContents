@@ -6,7 +6,6 @@ body,
 /* 全体の背景色に合わせてコードブロックの背景色を設定 */
 pre, code {
     background-color: inherit; /* 背景色を親要素に合わせる */
-    color: inherit; /* テキスト色も親要素に合わせる */
     border: 1px solid rgba(0, 0, 0, 0.2); /* 境界線を設定 (任意) */
     padding: 0.5em; /* パディングを追加して見やすくする */
     border-radius: 4px; /* 角を少し丸くする (任意) */
