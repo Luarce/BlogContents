@@ -4,6 +4,13 @@ body,
     color: black;
 }
 
+/* コードブロックの背景色だけ例外設定 */
+.markdown-body pre, 
+.markdown-body code {
+    background-color: transparent; /* コードブロックの背景を透明に */
+    color: inherit; /* 親要素の文字色を引き継ぐ */
+}
+
 .markdown-body h3 {
     font-size: 22px;
 }
