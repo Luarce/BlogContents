@@ -82,7 +82,6 @@
 ネタバレテキスト
 </details>
 
-<!-- css -->
 <style>
 /* ネタバレ防止 */
 .spoiler_details {
