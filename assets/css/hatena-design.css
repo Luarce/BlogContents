@@ -271,7 +271,7 @@ iframe {
     list-style: none;
 }
 
-.table-of-contents li:before {
+#stoc li:before {
     content: counters(item, ".") ". ";
     counter-increment: item;
 }
