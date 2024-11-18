@@ -13,7 +13,7 @@
       - なぜ変更するか
       - やり方
     - Windows Photo Viewer
-    - - なぜ変更するか
+      - なぜ変更するか
       - やり方
   - Google Chrome
   - サクラエディタ
