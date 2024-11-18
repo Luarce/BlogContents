@@ -75,49 +75,7 @@ ul.table-of-contents,
     padding-top: 3px;
 }
 
-/* 見出しに階層連番を付与する */
-h3, h4, h5 {
-    counter-increment: section; /* 各見出しでカウントアップ */
-  }
-  
-  /* h3タグに階層番号を表示 */
-  h3::before {
-    content: counter(section) ". "; /* 親のカウンターを表示 */
-    font-weight: bold;
-    position: absolute;
-    left: -2em; /* 番号の位置調整 */
-    top: 0;
-  }
-  
-  /* h4タグに階層番号を表示 */
-  h4::before {
-    content: counter(section, decimal) "." counter(subsection) ". "; /* h3の下に連番 */
-    counter-increment: subsection; /* h4はh3の下でカウントアップ */
-    font-weight: bold;
-    position: absolute;
-    left: -3em; /* 番号の位置調整 */
-    top: 0;
-  }
-  
-  /* h5タグに階層番号を表示 */
-  h5::before {
-    content: counter(section, decimal) "." counter(subsection) "." counter(subsubsection) ". "; /* h4の下にさらに連番 */
-    counter-increment: subsubsection; /* h5はh4の下でカウントアップ */
-    font-weight: bold;
-    position: absolute;
-    left: -4em; /* 番号の位置調整 */
-    top: 0;
-  }
-  
-  /* 各見出しの階層をリセット */
-  h3 {
-    counter-reset: subsection; /* h3が親となり、h4からのカウントをリセット */
-  }
-  
-  h4 {
-    counter-reset: subsubsection; /* h4が親となり、h5からのカウントをリセット */
-  }
-  
+
 
 /* h3, h4, h5の共通スタイル */
 h3,
