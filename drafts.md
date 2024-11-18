@@ -11,6 +11,7 @@
   - レジストリ
     - 右クリックメニュー
       - なぜ変更するか
+      - やり方
     - Windows Photo Viewer
   - Google Chrome
   - サクラエディタ
