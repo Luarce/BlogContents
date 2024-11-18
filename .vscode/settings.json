@@ -9,5 +9,8 @@
     // "**/.git": true,
     // "**/.gitattributes": true,
     // "**/.htmlhintrc": true,
-    }
+    },
+    "cSpell.words": [
+      "stoc"
+    ]
 }
