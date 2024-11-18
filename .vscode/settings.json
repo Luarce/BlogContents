@@ -5,9 +5,9 @@
     ],
 
     // VS Code側で非表示にするファイルを設定
-    "files.exclude": {
-    "**/.git": true,
-    "**/.gitattributes": true,
-    "**/.htmlhintrc": true,
-    },
+    // "files.exclude": {
+    // "**/.git": true,
+    // "**/.gitattributes": true,
+    // "**/.htmlhintrc": true,
+    // },
 }
