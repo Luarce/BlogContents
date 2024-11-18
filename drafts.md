@@ -16,7 +16,6 @@
       - なぜ変更するか
       - やり方
   - Google Chrome
-    - 
   - サクラエディタ
   - Visual Studio Code
 
