@@ -6,7 +6,8 @@
     var pc_width = 600;
     var device = window.screen.width < pc_width ? "sp" : "pc";
     device = device == "pc" && $(window).width() > pc_width ? "pc" : "sp";
-    var view_sec_num = 2; // ここに1回あたりの表示記事数を設定
+    // ここに1回あたりの表示記事数を設定
+    var view_sec_num = 2;
     var sections = $("#main-inner > div.archive-entries > section");
     if (sections.length > view_sec_num && device == "sp") {
       var page_index = 0;
@@ -52,7 +53,6 @@
     }
   });
 </script>
-
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
