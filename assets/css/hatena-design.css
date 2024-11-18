@@ -262,14 +262,14 @@ iframe {
 #stoc ol {
     margin: 0;
     padding: 0 0 0 1em;
-    list-style-type: decimal;  /* デフォルトの数字でリスト番号を表示 */
+    list-style-type: none;
 }
 
-#stoc > ol {
+#stoc>ol {
     padding-left: 0;
 }
 
-#stoc.shadow > ol {
+#stoc.shadow>ol {
     /* Shadow covers */
     background:
         linear-gradient(#fff 30%, transparent) top / 100% 40px,
@@ -281,17 +281,6 @@ iframe {
 
 #stoc li {
     /* margin: 3px 0; */
-}
-
-/* 階層ごとに異なる連番のスタイルを設定 */
-#stoc ol ol {
-    margin-left: 1.5em;  /* 2段階目のリストのインデント */
-    list-style-type: lower-alpha; /* 小文字アルファベット（a, b, c, ...）で番号付け */
-}
-
-#stoc ol ol ol {
-    margin-left: 2em;  /* 3段階目のリストのインデント */
-    list-style-type: lower-roman; /* 小文字のローマ数字（i, ii, iii, ...）で番号付け */
 }
 
 #stoc a {
