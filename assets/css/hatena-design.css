@@ -266,8 +266,7 @@ iframe {
 }
 
 /* 目次を階層連番にする */
-ul.table-of-contents,
-.table-of-contents ul {
+#stoc ol {
     counter-reset: item;
     list-style: none;
 }
