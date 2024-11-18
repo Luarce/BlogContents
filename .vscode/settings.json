@@ -1,5 +1,5 @@
 {
-    // markdownプレビュー時のスタイルを設定
+    // markdownプレビュー時のスタイル（参照先）を設定
     "markdown.styles": [
       ".vscode/markdown-style.css"
     ],
