@@ -56,8 +56,8 @@ templates/
 
 ```plaintext
 drafts.md
-.gitattributes                # Gitの属性設定
-.htmlhintrc                   # HTMLコードスタイルのチェック設定
+.gitattributes
+.htmlhintrc
 ```
 
 ## Reference
