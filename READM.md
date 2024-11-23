@@ -21,6 +21,7 @@
 ├── markdown-style.css
 └── settings.json
 ```
+
 | ファイル名             | 詳細                                   |
 |------------------------|----------------------------------------|
 | `markdown-style.css`   | VS Code用Markdownプレビューのスタイル設定 |
