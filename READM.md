@@ -25,7 +25,7 @@ assets/
 posts/
 ├── ジャンル1/
 │   └── 記事名.md                # 「ブログについて」の記事
-└── anime-reviews/
+└── ジャンル2/
 
 
 templates/
