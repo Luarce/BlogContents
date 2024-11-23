@@ -29,7 +29,7 @@
 |--------|-----|
 | `hatena-design.css` | `デザイン -> カスタマイズ -> デザインCSS`に反映 |
 
-#### assets/html/
+####" html/
 | ファイル | 詳細 |
 |--------|-----|
 | `hatena-about_blog-description.md` | `設定 -> aboutページ編集 -> 表示設定 -> ブログの説明（モード：Markdown）`に反映 |
