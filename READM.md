@@ -1,7 +1,7 @@
 # hatenablog-contents
 
 ## Overview
-**はてなブログ**に投稿する記事（`.md`）や設定（.css, .html）を管理するリポジトリ
+**はてなブログ**に投稿する記事（`.md`）や設定（`.css`, `.html`）を管理するリポジトリ
 
 ## Requirement
 - Windows 11
