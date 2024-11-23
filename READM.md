@@ -15,7 +15,7 @@
 
 ## Features
 ### ディレクトリ構成
-```planetext
+```Planetext
 
 #### .vscode/
 | ファイル             | 詳細                                   |
