@@ -31,7 +31,7 @@
 | `html/hatena-footer.html` | `デザイン -> カスタマイズ -> フッタ` |
 | `html/hatena-header.html` | `デザイン -> カスタマイズ -> ヘッダ` |
 | `html/hatena-sidebar_toc.html` | `デザイン -> カスタマイズ -> サイドバー -> 追加モジュール` |
-| `images/` | 画像ディレクトリ |
+| `images/` | 画像格納ディレクトリ |
 
 #### posts/
 | ファイル | 詳細 |
