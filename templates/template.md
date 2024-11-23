@@ -1,4 +1,4 @@
-<img class="thumbnail" src="サムネurl" alt="負けヒロインが多すぎる！">
+<img class="thumbnail" src="サムネurl" alt="サムネalt">
 
 書き出し
 
