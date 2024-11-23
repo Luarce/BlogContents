@@ -65,12 +65,6 @@ posts/
 | `anime-reviews/anime-reviews_2024_summer.md` | 2024年夏アニメの感想記事           |
 
 #### templates/
-```plaintext
-templates/
-├── parts.md
-└── template.md
-```
-
 | ファイル         | 詳細                                  |
 |--------------------|---------------------------------------|
 | `parts.md`         | 記事で使用するパーツテンプレート      |
