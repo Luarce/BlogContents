@@ -26,8 +26,8 @@ assets/
 ├── html/  
 │   ├── hatena-about_blog-description.md # ブログ説明用のMarkdown  
 │   ├── hatena-footer.html               # はてなブログのフッター  
-│   ├── hatena-header.html               &nbsp; # はてなブログのヘッダー  
-│   ├── hatena-sidebar_toc.html          &nbsp; # サイドバーの目次用HTML  
+│   ├── hatena-header.html               # はてなブログのヘッダー  
+│   ├── hatena-sidebar_toc.html          # サイドバーの目次用HTML  
 └── images/  
 
 ### posts
