@@ -8,7 +8,7 @@
 - Visual Studio Code
 
 ## Usage
-VSCodeからリポジトリにアクセス
+1. VSCodeからリポジトリにアクセス
 
 ## Features
 .vscode/  
