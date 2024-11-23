@@ -30,7 +30,7 @@
 | `html/hatena-about_blog-description.md` | `設定 -> aboutページ編集 -> 表示設定 -> ブログの説明(モード：Markdown)` |
 | `html/hatena-footer.html` | `デザイン -> カスタマイズ -> フッタ` |
 | `html/hatena-header.html` | `デザイン -> カスタマイズ -> ヘッダ` |
-| `html/hatena-sidebar_toc.html` | `デザイン -> カスタマイズ -> サイドバー -> 目次` |
+| `html/hatena-sidebar_toc.html` | `デザイン -> カスタマイズ -> サイドバー -> 追加モジュール` |
 | `images/` | アニメ感想用画像ディレクトリ |
 
 #### posts/
