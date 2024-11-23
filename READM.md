@@ -29,18 +29,6 @@
 | `settings.json`        | VS Codeのプロジェクト固有の設定       |
 
 #### assets/
-```plaintext
-assets/
-├── css/
-│   ├── hatena-design.css
-├── html/
-│   ├── hatena-about_blog-description.md
-│   ├── hatena-footer.html
-│   ├── hatena-header.html
-│   ├── hatena-sidebar_toc.html
-└── images/
-```
-
 | ファイル             | 詳細                                   |
 |------------------------|----------------------------------------|
 | `hatena-design.css`    | はてなブログのデザインCSSファイル     |
