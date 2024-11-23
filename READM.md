@@ -6,7 +6,7 @@
 ## Requirement
 - **OS**： Windows 11
 - **Editor**： Visual Studio Code
-- **必須プラグイン**:
+- **必須プラグイン**：
   - Markdown All in One
   - HTML Preview (必要に応じて)
 
