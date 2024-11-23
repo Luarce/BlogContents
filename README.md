@@ -14,7 +14,7 @@ image or gif
 
 ## Author
 
-[Hatena-Blog - Lua-](https://luarce.hatenablog.com/archive)
+[Hatena-Blog - Lua_Archives](https://luarce.hatenablog.com/archive)
 
 ## Licence
 
