@@ -34,8 +34,8 @@ assets/
 │   ├── hatena-design.css
 ├── html/
 │   ├── hatena-about_blog-description.md
-│   ├── hatena-footer.html               # フッターHTML
-│   ├── hatena-header.html               # ヘッダーHTML
+│   ├── hatena-footer.html
+│   ├── hatena-header.html
 │   ├── hatena-sidebar_toc.html          # サイドバー目次HTML
 └── images/                   # 画像（アニメ感想記事用）
 ```
