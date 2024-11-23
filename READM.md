@@ -31,9 +31,9 @@ Markdownで記事を執筆し、デザインや構造をカスタマイズでき
 ```plaintext
 assets/
 ├── css/
-│   ├── hatena-design.css     # はてなブログ用のデザインCSS
+│   ├── hatena-design.css
 ├── html/
-│   ├── hatena-about_blog-description.md # ブログ説明用Markdown
+│   ├── hatena-about_blog-description.md
 │   ├── hatena-footer.html               # フッターHTML
 │   ├── hatena-header.html               # ヘッダーHTML
 │   ├── hatena-sidebar_toc.html          # サイドバー目次HTML
