@@ -47,7 +47,7 @@
 |--------|-----|
 | `drafts.md` | 執筆中または草稿のアイデア |
 | `.gitattributes` | Gitの属性設定 |
-| `.htmlhintrc` | HTMLコードスタイルチェック設定        |
+| `.htmlhintrc` | HTMLコードスタイルチェック設定 |
 
 ## Reference
 これからメモる
