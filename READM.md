@@ -68,6 +68,12 @@ templates/
 └── template.md
 ```
 
+| ファイル名         | 詳細                                  |
+|--------------------|---------------------------------------|
+| `parts.md`         | 記事で使用するパーツテンプレート      |
+| `template.md`      | 記事全体のテンプレート               |
+
+
 ```plaintext
 drafts.md
 .gitattributes
