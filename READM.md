@@ -41,7 +41,7 @@ templates/
 ├── parts.md    # 記事で利用するパーツテンプレート  
 └── template.md # 記事全体のテンプレート  
 
-drafts.md   &nbsp; # 執筆中または草稿のアイデア  
+drafts.md  # 執筆中または草稿のアイデア  
 
 .gitattributes  &nbsp; # Gitの属性設定  
 .htmlhintrc &nbsp; # HTMLのコードスタイルチェック設定  
