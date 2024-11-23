@@ -30,7 +30,7 @@ posts/
 
 templates/  
 ├── parts.md    &nbsp; # 記事で利用するパーツテンプレート  
-└── template.md                &nbsp; # 記事全体のテンプレート  
+└── template.md &nbsp; # 記事全体のテンプレート  
 
 .gitattributes              &nbsp; # Gitの属性設定  
 .htmlhintrc                 &nbsp; # HTMLのコードスタイルチェック設定  
