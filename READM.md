@@ -40,10 +40,6 @@ assets/
 └── images/
 ```
 
-| ファイル名             | 詳細                                   |
-|------------------------|----------------------------------------|
-| `hatena-design.css`    | はてなブログのデザインCSSファイル     |
-
 
 ```plaintext
 posts/
@@ -52,14 +48,6 @@ posts/
 └── anime-reviews/
 　   └── anime-reviews_2024_summer.md
 ```
-
-| ファイル名                       | 詳細                                    |
-|----------------------------------|-----------------------------------------|
-| `hatena-about_blog-description.md` | ブログ説明用のMarkdownファイル         |
-| `hatena-footer.html`             | はてなブログのフッターHTML             |
-| `hatena-header.html`             | はてなブログのヘッダーHTML             |
-| `hatena-sidebar_toc.html`        | サイドバー目次用HTML                  |
-
 
 ```plaintext
 templates/
