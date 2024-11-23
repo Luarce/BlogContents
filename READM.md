@@ -16,7 +16,7 @@
 ## Features
 ### ディレクトリ構成
 
-#### .vscode
+#### .vscode/
 ```plaintext
 .vscode/
 ├── markdown-style.css
