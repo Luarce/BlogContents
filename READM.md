@@ -4,10 +4,10 @@
 **はてなブログ**の記事作成やカスタマイズを効率化するためのリポジトリ。記事の草稿（`.md`）や、ブログデザイン用のファイル（`.css`, `.html`）を管理しています。
 
 ## Requirement
-- **OS**: Windows 11  
-- **Editor**: Visual Studio Code  
-- **必須プラグイン**:  
-  - Markdown All in One  
+- **OS**: Windows 11
+- **Editor**: Visual Studio Code
+- **必須プラグイン**:
+  - Markdown All in One
   - HTML Preview (必要に応じて)
 
 ## Usage
