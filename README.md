@@ -63,8 +63,8 @@
 - [はてなブログ公式ヘルプ](https://help.hatenablog.com/)
 
 ## Author
-
-- [はてなブログ - Lua_Archives](https://luarce.hatenablog.com/archive)  
+Luarce
+  - [はてなブログ - Lua_Archives](https://luarce.hatenablog.com/archive)  
 - [Twitter (@luarce77)](https://twitter.com/luarce77)
 
 ## Licence
