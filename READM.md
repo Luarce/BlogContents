@@ -47,6 +47,8 @@ posts/
 └── anime-reviews/
     └── anime-reviews_2024_summer.md # 2024年夏アニメ感想
 ```
+
+```plaintext
 templates/
 ├── parts.md                  # 記事で利用するテンプレート部品
 └── template.md               # 記事全体のテンプレート
