@@ -24,7 +24,7 @@
 | `settings.json` | VS Codeのプロジェクト固有の設定 |
 
 #### assets/
-| ファイル | 詳細 |該当場所|
+| ファイル | 詳細 |はてなブログ|
 |--------|-----|---|
 | `css/hatena-design.css` | はてなブログ用デザインCSS |
 | `html/hatena-about_blog-description.md` | ブログ説明用Markdownファイル |
