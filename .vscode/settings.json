@@ -6,9 +6,9 @@
 
     // VS Code側で非表示にするファイルを設定
     "files.exclude": {
-    // "**/.git": true,
-    // "**/.gitattributes": true,
-    // "**/.htmlhintrc": true,
+    "**/.git": true,
+    "**/.gitattributes": true,
+    "**/.htmlhintrc": true,
     },
 
     // 辞書登録
