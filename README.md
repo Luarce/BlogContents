@@ -1,7 +1,7 @@
 # hatenablog-contents
 
 ## Overview
-**はてなブログ**の記事管理やカスタマイズを効率化するためのリポジトリ  
+**はてなブログ**の記事管理やカスタマイズを効率化するための個人用リポジトリ  
 
 ## Requirement
 - **OS**： Windows 11
