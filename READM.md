@@ -16,13 +16,8 @@
 ## Features
 ### ディレクトリ構成
 
-#### .vscode/
-```plaintext
-.vscode/
-├── markdown-style.css
-└── settings.json
-```
 
+#### .vscode/
 | ファイル             | 詳細                                   |
 |------------------------|----------------------------------------|
 | `markdown-style.css`   | VS Code用Markdownプレビューのスタイル設定 |
