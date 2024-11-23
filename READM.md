@@ -29,12 +29,12 @@ posts/
 │   └── 記事名.md  
 
 templates/  
-├── parts.md                   # 記事で利用するパーツテンプレート  
-└── template.md                # 記事全体のテンプレート  
+├── parts.md                   &nbsp; # 記事で利用するパーツテンプレート  
+└── template.md                &nbsp; # 記事全体のテンプレート  
 
-.gitattributes              # Gitの属性設定  
-.htmlhintrc                 # HTMLのコードスタイルチェック設定  
-drafts.md                   # 執筆中または草稿のアイデア  
+.gitattributes              &nbsp; # Gitの属性設定  
+.htmlhintrc                 &nbsp; # HTMLのコードスタイルチェック設定  
+drafts.md                   &nbsp; # 執筆中または草稿のアイデア  
 
 ## Features
 
