@@ -65,7 +65,7 @@
 ## Author
 Luarce
   - [はてなブログ - Lua_Archives](https://luarce.hatenablog.com/archive)  
-- [Twitter (@luarce77)](https://twitter.com/luarce77)
+  - [Twitter (@luarce77)](https://twitter.com/luarce77)
 
 ## Licence
 This repository is licensed under the [MIT License](https://github.com/Luarce/hatenablog-contents/blob/main/.github/LICENSE).
