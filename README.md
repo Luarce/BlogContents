@@ -34,7 +34,7 @@
 | `hatena-about_blog-description.md` | `設定` -> `aboutページ編集` -> `表示設定` -> `ブログの説明（モード：Markdown）`に反映 |
 | `hatena-footer.html` | `デザイン` -> `カスタマイズ` -> `フッタ`に反映 |
 | `hatena-header.html` | `デザイン` -> `カスタマイズ` -> `ヘッダ`に反映 |
-| `hatena-sidebar_toc.html` | `デザイン -> カスタマイズ -> サイドバー -> 追加モジュール`に反映 |
+| `hatena-sidebar_toc.html` | `デザイン` -> `カスタマイズ` -> サイドバー -> 追加モジュール`に反映 |
 
 #### assets/images/
 | ファイル | 詳細 |
