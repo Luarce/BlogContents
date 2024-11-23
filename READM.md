@@ -38,6 +38,7 @@ assets/
 │   ├── hatena-header.html               # ヘッダーHTML
 │   ├── hatena-sidebar_toc.html          # サイドバー目次HTML
 └── images/                   # 画像（アニメ感想記事用）
+```
 
 posts/
 ├── about/
