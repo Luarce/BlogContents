@@ -9,7 +9,7 @@
   - **推奨プラグイン**：
     - Markdown All in One
     - markdownlint
-    - 
+    - HTMLHINT
 
 ## Usage
 1. **Visual Studio Code**でリポジトリを開く
