@@ -10,7 +10,7 @@
     "**/.gitattributes": true,
     "**/.htmlhintrc": true,
     "**/LICENSE":true,
-    "README.md"
+    "README.md":true
     },
 
     // 辞書登録
