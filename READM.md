@@ -14,12 +14,11 @@
 
 ## Features
 ディレクトリ校正
-### .vscode
 .vscode/  
 ├── markdown-style.css  # VS Code用Markdownプレビューのスタイル設定  
 └── settings.json   # VS Codeの設定ファイル  
 
-### assets
+
 assets/  
 ├── css/  
 │   ├── hatena-design.css      # はてなブログで使用するデザインCSS  
@@ -30,7 +29,7 @@ assets/
 │   ├── hatena-sidebar_toc.html          # サイドバーの目次用HTML  
 └── images/  
 
-### posts
+
 posts/  
 ├── ジャンル1/  
 │   └── 記事名.md  
