@@ -26,6 +26,7 @@ Markdownで記事を執筆し、デザインや構造をカスタマイズでき
 .vscode/
 ├── markdown-style.css        # VS Code用Markdownプレビューのスタイル
 └── settings.json             # VS Codeの設定ファイル
+```
 
 assets/
 ├── css/
