@@ -40,6 +40,7 @@ assets/
 └── images/                   # 画像（アニメ感想記事用）
 ```
 
+```plaintext
 posts/
 ├── about/
 │   └── about.md              # ブログについての記事
