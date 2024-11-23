@@ -8,6 +8,10 @@
 - Visual Studio Code
 
 ## Usage
+
+
+
+## Features
 .vscode/  
 ├── markdown-style.css  &nbsp; # VS Code用Markdownプレビューのスタイル設定  
 └── settings.json   &nbsp; # VS Codeの設定ファイル  
@@ -36,10 +40,6 @@ drafts.md   &nbsp; # 執筆中または草稿のアイデア
 
 .gitattributes  &nbsp; # Gitの属性設定  
 .htmlhintrc &nbsp; # HTMLのコードスタイルチェック設定  
-
-
-## Features
-
 ## Reference
 
 ## Author
