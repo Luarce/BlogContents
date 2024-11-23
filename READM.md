@@ -24,10 +24,7 @@ assets/
 │   └── in-progress_footer.html          # 開発中のフッターHTML  
 └── images/  
     └── anime-reviews/  
-        ├── makeine_title.png      # アニメ感想記事用の画像
-        ├── nigoriri_title.png     # 同上
-        ├── roshidere_title.png    # 同上
-        └── shikanoko_title.png    # 同上
+
 
 posts/
 ├── about/
