@@ -21,16 +21,10 @@
 | `markdown-style.css`   | VS Code用Markdownプレビューのスタイル設定 |
 | `settings.json`        | VS Codeのプロジェクト固有の設定       |
 
-#### assets/css/
+#### assets/
 | ファイル             | 詳細                                   |
 |------------------------|----------------------------------------|
 | `hatena-design.css`    | はてなブログのデザインCSSファイル     |
-
-
-
-#### assets/html/
-| ファイル             | 詳細                                   |
-|------------------------|----------------------------------------|
 | `hatena-about_blog-description.md` | ブログ説明用のMarkdownファイル         |
 | `hatena-footer.html`             | はてなブログのフッターHTML             |
 | `hatena-header.html`             | はてなブログのヘッダーHTML             |
