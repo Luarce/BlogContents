@@ -19,7 +19,7 @@
 ```plaintext
 .vscode/
 ├── markdown-style.css // VSCodeでのMarkdownプレビューCSS
-└── settings.json //
+└── settings.json //Workspace内の設定
 ```
 
 ```plaintext
