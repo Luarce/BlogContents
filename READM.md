@@ -28,7 +28,7 @@
 
 
 
-#### assets/hrml/
+#### assets/html/
 | ファイル             | 詳細                                   |
 |------------------------|----------------------------------------|
 | `hatena-about_blog-description.md` | ブログ説明用のMarkdownファイル         |
