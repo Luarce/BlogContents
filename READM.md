@@ -8,7 +8,7 @@
 - Visual Studio Code
 
 ## Usage
-.vscode/
+.vscode/  
 ├── markdown-style.css      # VS Code用Markdownプレビューのスタイル設定  
 └── settings.json           # VS Codeの設定ファイル
 
