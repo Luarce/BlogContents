@@ -15,8 +15,8 @@
 assets/  
 ├── css/  
 │   ├── hatena-design.css       # はてなブログで使用するデザインCSS  
-│   └── in-progress_design.css  # 開発中のCSS
-├── html/
+│   └── in-progress_design.css  # 開発中のCSS  
+├── html/  
 │   ├── hatena-about_blog-description.md # ブログ説明用のMarkdown
 │   ├── hatena-footer.html               # はてなブログのフッター
 │   ├── hatena-header.html               # はてなブログのヘッダー
