@@ -28,7 +28,7 @@
 | `html/hatena-about_blog-description.md` | ブログ説明用のMarkdownファイル         |
 | `html/hatena-footer.html`             | はてなブログのフッターHTML             |
 | `html/hatena-header.html`             | はてなブログのヘッダーHTML             |
-| `hatena-sidebar_toc.html`        | サイドバー目次用HTML                  |
+| `html/hatena-sidebar_toc.html`        | サイドバー目次用HTML                  |
 | `images/`    | 画像フォルダ |
 
 #### posts/
