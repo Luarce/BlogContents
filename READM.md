@@ -18,9 +18,10 @@
 
 ```plaintext
 .vscode/
-├── markdown-style.css // VSCodeでのMarkdownプレビューCSS
-└── settings.json // Workspace内の設定ファイル
+├── markdown-style.css
+└── settings.json
 ```
+
 
 ```plaintext
 assets/
