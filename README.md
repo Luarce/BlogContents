@@ -69,4 +69,4 @@
 - [Twitter (@luarce77)](https://twitter.com/luarce77)
 
 ## Licence
-This repository is licensed under the [MIT](https://github.com/Luarce/hatenablog-contents/blob/main/LICENSE) License.
+This repository is licensed under the [MIT](https://github.com/Luarce/hatenablog-contents/LICENSE) License.
