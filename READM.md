@@ -15,7 +15,7 @@
 ## Features
 各ディレクトリの詳細
 ### .vscode
-```
+```md
 .vscode/  
 ├── markdown-style.css  &nbsp; # VS Code用Markdownプレビューのスタイル設定  
 └── settings.json   &nbsp; # VS Codeの設定ファイル  
