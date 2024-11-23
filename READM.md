@@ -10,7 +10,6 @@
 ## Usage
 
 
-
 ## Features
 .vscode/  
 ├── markdown-style.css  &nbsp; # VS Code用Markdownプレビューのスタイル設定  
