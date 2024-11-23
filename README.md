@@ -37,7 +37,6 @@
 | ファイル | 詳細 |
 |--------|-----|
 | `.md` | ブログの概要説明記事 |
-| `anime-reviews/anime-reviews_2024_summer.md` | 記事 |
 
 #### templates/
 | ファイル | 詳細 |
