@@ -31,7 +31,7 @@
 #### assets/html/
 | ファイル | 詳細 |
 |--------|-----|
-| `hatena-about_blog-description.md` | `設定 -> aboutページ編集 -> 表示設定 -> ブログの説明(モード：Markdown)` |
+| `hatena-about_blog-description.md` | `設定 -> aboutページ編集 -> 表示設定 -> ブログの説明(モード：Markdown)`に反映 |
 | `hatena-footer.html` | `デザイン -> カスタマイズ -> フッタ` |
 | `hatena-header.html` | `デザイン -> カスタマイズ -> ヘッダ` |
 | `hatena-sidebar_toc.html` | `デザイン -> カスタマイズ -> サイドバー -> 追加モジュール` |
