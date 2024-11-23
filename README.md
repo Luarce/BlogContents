@@ -1,7 +1,5 @@
 # hatenablog-contents
 
-image or gif
-
 ## Overview
 
 ## Requirement
