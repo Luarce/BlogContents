@@ -23,7 +23,7 @@ assets/
 │   ├── hatena-sidebar_toc.html          # サイドバーの目次用HTML  
 │   └── in-progress_footer.html          # 開発中のフッターHTML  
 └── images/  
-    └── anime-reviews/
+    └── anime-reviews/  
         ├── makeine_title.png      # アニメ感想記事用の画像
         ├── nigoriri_title.png     # 同上
         ├── roshidere_title.png    # 同上
