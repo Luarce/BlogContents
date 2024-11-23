@@ -28,7 +28,7 @@
 |--------|--------------------|
 | `css/hatena-design.css` | `デザイン -> カスタマイズ -> デザインCSS` |
 | `html/hatena-about_blog-description.md` | `設定 -> aboutページ編集 -> 表示設定 -> ブログの説明(モード：Markdown)` |
-| `html/hatena-footer.html` | `デザイン -> カスタマイズ -> デザインCSS` |
+| `html/hatena-footer.html` | `デザイン -> カスタマイズ -> フッタ` |
 | `html/hatena-header.html` | ヘッダー用HTML |
 | `html/hatena-sidebar_toc.html` | サイドバー目次用HTML |
 | `images/` | アニメ感想用画像ディレクトリ |
