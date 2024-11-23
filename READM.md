@@ -22,7 +22,7 @@ Markdownで記事を執筆し、デザインや構造をカスタマイズでき
 ## Features
 ### ディレクトリ構成
 
-```md
+```plaintext
 .vscode/
 ├── markdown-style.css        # VS Code用Markdownプレビューのスタイル
 └── settings.json             # VS Codeの設定ファイル
