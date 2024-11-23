@@ -15,43 +15,6 @@
 
 ## Features
 ### ディレクトリ構成
-```plaintext
-.
-├── .vscode
-│   ├── markdown-style.css
-│   └── settings.json
-│
-├── assets
-│   ├── css
-│   │   ├── hatena-design.css
-│   ├── html
-│   │   ├── hatena-about_blog-description.md
-│   │   ├── hatena-footer.html
-│   │   ├── hatena-header.html
-│   │   ├── hatena-sidebar_toc.html
-│   └── images
-│       └── anime-reviews
-│           ├── .png
-│           ├── nigoriri_title.png
-│           ├── roshidere_title.png
-│           └── shikanoko_title.png
-│
-├── posts
-│   ├── about
-│   │   └── about.md
-│   └── anime-reviews
-│       └── anime-reviews_2024_summer.md
-│
-├── templates
-│   ├── parts.md
-│   └── template.md
-│
-├── .gitattributes
-├── .htmlhintrc
-└── drafts.md
-
-```
-
 #### .vscode/
 | ファイル             | 詳細                                   |
 |------------------------|----------------------------------------|
