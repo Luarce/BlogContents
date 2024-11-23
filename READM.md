@@ -18,7 +18,7 @@
 
 ```plaintext
 .vscode/
-├── markdown-style.css //VSCodeでのmarkdown
+├── markdown-style.css //VSCodeでのmarkdownプレビュー
 └── settings.json
 ```
 
