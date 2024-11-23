@@ -27,7 +27,7 @@
 | ファイル | はてなブログ設定対応箇所 |
 |--------|--------------------|
 | `css/hatena-design.css` | `デザイン -> カスタマイズ -> デザインCSS` |
-| `html/hatena-about_blog-description.md` | `設定 -> aboutページ編集 -> 表示設定 -> ブログの説明(markdown)` |
+| `html/hatena-about_blog-description.md` | `設定 -> aboutページ編集 -> 表示設定 -> ブログの説明(モード：arkdown)` |
 | `html/hatena-footer.html` | フッター用HTML |
 | `html/hatena-header.html` | ヘッダー用HTML |
 | `html/hatena-sidebar_toc.html` | サイドバー目次用HTML |
