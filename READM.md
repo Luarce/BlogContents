@@ -29,7 +29,7 @@ posts/
 │   └── 記事名.md  
 
 templates/  
-├── parts.md                   &nbsp; # 記事で利用するパーツテンプレート  
+├── parts.md    &nbsp; # 記事で利用するパーツテンプレート  
 └── template.md                &nbsp; # 記事全体のテンプレート  
 
 .gitattributes              &nbsp; # Gitの属性設定  
