@@ -23,9 +23,9 @@ assets/
 ├── css/  
 │   ├── hatena-design.css      // はてなブログで使用するデザインCSS  
 ├── html/  
-│   ├── hatena-about_blog-description.md #// ブログ説明用のMarkdown  
-│   ├── hatena-footer.html               # はてなブログのフッター  
-│   ├── hatena-header.html               # はてなブログのヘッダー  
+│   ├── hatena-about_blog-description.md // ブログ説明用のMarkdown  
+│   ├── hatena-footer.html               // はてなブログのフッター  
+│   ├── hatena-header.html               // はてなブログのヘッダー  
 │   ├── hatena-sidebar_toc.html          # サイドバーの目次用HTML  
 └── images/  
 
