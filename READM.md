@@ -33,7 +33,7 @@ templates/
 └── template.md &nbsp; # 記事全体のテンプレート  
 
 .gitattributes  &nbsp; # Gitの属性設定  
-.htmlhintrc                 &nbsp; # HTMLのコードスタイルチェック設定  
+.htmlhintrc &nbsp; # HTMLのコードスタイルチェック設定  
 drafts.md                   &nbsp; # 執筆中または草稿のアイデア  
 
 ## Features
