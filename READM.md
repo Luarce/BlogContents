@@ -23,13 +23,11 @@
 ├── assets
 │   ├── css
 │   │   ├── hatena-design.css
-│   │   └── in-progress_design.css
 │   ├── html
 │   │   ├── hatena-about_blog-description.md
 │   │   ├── hatena-footer.html
 │   │   ├── hatena-header.html
 │   │   ├── hatena-sidebar_toc.html
-│   │   └── in-progress_footer.html
 │   └── images
 │       └── anime-reviews
 │           ├── makeine_title.png
