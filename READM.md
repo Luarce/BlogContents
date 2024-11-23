@@ -24,9 +24,8 @@ assets/
 
 posts/
 ├── about/
-│   └── about.md                # 「ブログについて」の記事
 └── anime-reviews/
-    └── anime-reviews_2024_summer.md # 2024年夏アニメ感想
+
 
 templates/
 ├── parts.md                   # 記事で利用するパーツテンプレート
