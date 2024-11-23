@@ -22,7 +22,7 @@ assets/
 │   ├── hatena-sidebar_toc.html          &nbsp; # サイドバーの目次用HTML  
 └── images/  
 
-posts/
+posts/  
 ├── ジャンル1/
 │   └── 記事名.md
 └── ジャンル2/
