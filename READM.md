@@ -30,10 +30,8 @@
 │   │   ├── hatena-sidebar_toc.html
 │   └── images
 │       └── anime-reviews
-│           ├── makeine_title.png
-│           ├── nigoriri_title.png
-│           ├── roshidere_title.png
-│           └── shikanoko_title.png
+│           ├── .png
+
 ├── posts
 │   ├── about
 │   │   └── about.md
