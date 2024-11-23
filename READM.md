@@ -31,7 +31,9 @@
 │   └── images
 │       └── anime-reviews
 │           ├── .png
-
+│           ├── nigoriri_title.png
+│           ├── roshidere_title.png
+│           └── shikanoko_title.png
 ├── posts
 │   ├── about
 │   │   └── about.md
