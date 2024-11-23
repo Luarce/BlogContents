@@ -8,7 +8,7 @@
 - Visual Studio Code
 
 ## Usage
-
+VSCodeからりぽい
 
 ## Features
 .vscode/  
