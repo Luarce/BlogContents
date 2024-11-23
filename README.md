@@ -14,7 +14,7 @@ image or gif
 
 ## Author
 
-Hatena-Blog]
+[Hatena-Blog]
 
 ## Licence
 
