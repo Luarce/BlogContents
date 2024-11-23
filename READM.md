@@ -1,7 +1,7 @@
 # hatenablog-contents
 
 ## Overview
-はてなブログに投稿する記事や設定内容を管理する
+はてなブログに投稿する記事や設定内容を管理するリポジトリ
 
 ## Requirement
 
