@@ -4,13 +4,10 @@
 **はてなブログ**に投稿する記事（`.md`）や設定ファイル（`.css`, `.html`）を管理するリポジトリです。  
 Markdownで記事を執筆し、デザインや構造をカスタマイズできます。
 
----
 
 ## Requirement
 - **OS**: Windows 11  
 - **Editor**: Visual Studio Code  
-
----
 
 ## Usage
 1. **Visual Studio Code**でリポジトリをクローン・開く  
