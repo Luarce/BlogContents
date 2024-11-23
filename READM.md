@@ -47,7 +47,7 @@ assets/
 | `hatena-footer.html`             | はてなブログのフッターHTML             |
 | `hatena-header.html`             | はてなブログのヘッダーHTML             |
 | `hatena-sidebar_toc.html`        | サイドバー目次用HTML                  |
-| `images.`    | アニメ感想記事用の画像フォルダ |
+| `images/`    | アニメ感想記事用の画像フォルダ |
 
 ```plaintext
 posts/
