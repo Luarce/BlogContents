@@ -18,4 +18,3 @@ image or gif
 
 ## Licence
 
-[MIT](https://......)
