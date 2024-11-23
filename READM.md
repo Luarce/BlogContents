@@ -42,6 +42,7 @@
 ├── templates
 │   ├── parts.md
 │   └── template.md
+│
 ├── .gitattributes
 ├── .htmlhintrc
 └── drafts.md
