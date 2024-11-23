@@ -14,4 +14,3 @@
 <style>
 @import url("../../assets/css/hatena-design.css");
 </style>
-
