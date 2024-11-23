@@ -28,6 +28,7 @@ Markdownで記事を執筆し、デザインや構造をカスタマイズでき
 └── settings.json             # VS Codeの設定ファイル
 ```
 
+```plaintext
 assets/
 ├── css/
 │   ├── hatena-design.css     # はてなブログ用のデザインCSS
