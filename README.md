@@ -14,7 +14,7 @@
 
 [はてなブログ - Lua_Archives](https://luarce.hatenablog.com/archive)
 
-[Twitter](https://twitter.com/luarce77)
+[Twitter(Luarce77)](https://twitter.com/luarce77)
 
 ## Licence
 
