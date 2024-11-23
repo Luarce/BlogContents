@@ -5,7 +5,7 @@
 
 ## Requirement
 - Windows11
-- 
+- Visual S
 ## Usage
 
 ## Features
