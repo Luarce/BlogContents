@@ -58,7 +58,7 @@
 | ファイル | 詳細 |
 |--------|-----|
 | `.gitattributes` | Gitの属性設定 |
-| `.htmlhintrc` | HTMLコードスタイルチェック設定 |
+| `.htmlhintrc` | HTMLHintの設定 |
 
 ## Reference
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
