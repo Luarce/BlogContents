@@ -23,7 +23,7 @@
 | `markdown-style.css` | VS Code用Markdownプレビューのスタイル設定 |
 | `settings.json` | VS Codeのプロジェクト固有の設定 |
 
-#### assets/
+#### assets/css/
 | ファイル | 詳細 |
 |--------|-----|
 | `css/hatena-design.css` | `デザイン -> カスタマイズ -> デザインCSS` |
