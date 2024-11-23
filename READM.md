@@ -41,6 +41,7 @@
 │   │   └── about.md
 │   └── anime-reviews
 │       └── anime-reviews_2024_summer.md
+│
 ├── templates
 │   ├── parts.md
 │   └── template.md
