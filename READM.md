@@ -8,8 +8,8 @@
 - Visual Studio Code
 
 ## Usage
-1. `VS Code`からリポジトリにアクセス
-2. `VS Code`で記事（.md）や設定（.css, .html）を編集
+1. `VSCode`からリポジトリにアクセス
+2. `VSCode`で記事（.md）や設定（.css, .html）を編集
 3. ブラウザで`はてなブログ`を開き、編集内容をコピペして反映
 
 ## Features
