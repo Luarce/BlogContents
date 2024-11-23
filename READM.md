@@ -9,7 +9,7 @@
 
 ## Usage
 1. VSCodeからリポジトリにアクセス
-2. VSCodeで記事や設定を編集
+2. VSCodeで記事（.md）や設定（）を編集
 3. はてなブログにコピペして反映
 
 ## Features
