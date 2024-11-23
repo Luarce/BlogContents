@@ -26,7 +26,7 @@
 #### assets/css/
 | ファイル | 詳細 |
 |--------|-----|
-| `hatena-design.css` | `デザイン -> カスタマイズ -> デザインCSS` |
+| `hatena-design.css` | `デザイン -> カスタマイズ -> デザインCSS`に反映 |
 
 #### assets/html/
 | ファイル | 詳細 |
@@ -34,7 +34,7 @@
 | `hatena-about_blog-description.md` | `設定 -> aboutページ編集 -> 表示設定 -> ブログの説明(モード：Markdown)`に反映 |
 | `hatena-footer.html` | `デザイン -> カスタマイズ -> フッタ`に反映 |
 | `hatena-header.html` | `デザイン -> カスタマイズ -> ヘッダ`に反映 |
-| `hatena-sidebar_toc.html` | `デザイン -> カスタマイズ -> サイドバー -> 追加モジュール` |
+| `hatena-sidebar_toc.html` | `デザイン -> カスタマイズ -> サイドバー -> 追加モジュール`に反映 |
 
 #### assets/images/
 | ファイル | 詳細 |
