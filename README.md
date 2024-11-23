@@ -12,7 +12,7 @@
 
 ## Author
 
-[はてなBlog - Lua_Archives](https://luarce.hatenablog.com/archive)
+[はてなブログ - Lua_Archives](https://luarce.hatenablog.com/archive)
 
 [Twitter](https://twitter.com/luarce77)
 
