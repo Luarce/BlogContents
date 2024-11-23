@@ -10,7 +10,7 @@ Markdownで記事を執筆し、デザインや構造をカスタマイズでき
 - **Editor**: Visual Studio Code  
 
 ## Usage
-1. **Visual Studio Code**でリポジトリをクローン・開く  
+1. **Visual Studio Code**でリポジトリを開く  
 2. 記事（`.md`）、デザイン（`.css`）、ヘッダーやフッター（`.html`）を編集  
 3. **はてなブログ**にアクセスし、編集内容をコピペして反映
 
