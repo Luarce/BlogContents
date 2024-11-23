@@ -6,8 +6,6 @@
 
 ## Usage
 
-## Features
-
 ## Reference
 
 ## Author
