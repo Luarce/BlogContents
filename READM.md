@@ -16,7 +16,7 @@ assets/
 ├── css/  
 │   ├── hatena-design.css      &nbsp; # はてなブログで使用するデザインCSS  
 ├── html/  
-│   ├── hatena-about_blog-description.md &nbsp; # ブログ説明用のMarkdown  
+│   ├── hatena-about_blog-description.md │ # ブログ説明用のMarkdown  
 │   ├── hatena-footer.html               &nbsp; # はてなブログのフッター  
 │   ├── hatena-header.html               &nbsp; # はてなブログのヘッダー  
 │   ├── hatena-sidebar_toc.html          &nbsp; # サイドバーの目次用HTML  
@@ -29,7 +29,7 @@ posts/
 │   └── 記事名.md  
 
 templates/  
-├── parts.md                   # 記事で利用するパーツテンプレート  
+├── parts.md                   │# 記事で利用するパーツテンプレート  
 └── template.md                # 記事全体のテンプレート  
 
 .gitattributes              # Gitの属性設定  
