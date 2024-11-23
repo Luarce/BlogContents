@@ -34,7 +34,7 @@ templates/
 
 .gitattributes  &nbsp; # Gitの属性設定  
 .htmlhintrc &nbsp; # HTMLのコードスタイルチェック設定  
-drafts.md                   &nbsp; # 執筆中または草稿のアイデア  
+drafts.md   &nbsp; # 執筆中または草稿のアイデア  
 
 ## Features
 
