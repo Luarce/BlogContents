@@ -25,7 +25,7 @@
 
 #### assets/
 | ファイル | はてなブログ設定対応箇所 |
-|--------|-----------------|
+|--------|--------------------|
 | `css/hatena-design.css` | `デザイン -> カスタマイズ -> デザインCSS` |
 | `html/hatena-about_blog-description.md` | ブログ説明用Markdownファイル |
 | `html/hatena-footer.html` | フッター用HTML |
