@@ -19,6 +19,7 @@
 ├── markdown-style.css  &nbsp; # VS Code用Markdownプレビューのスタイル設定  
 └── settings.json   &nbsp; # VS Codeの設定ファイル  
 
+### assets
 assets/  
 ├── css/  
 │   ├── hatena-design.css      &nbsp; # はてなブログで使用するデザインCSS  
