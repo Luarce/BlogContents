@@ -18,11 +18,11 @@ assets/
 │   └── in-progress_design.css  # 開発中のCSS  
 ├── html/  
 │   ├── hatena-about_blog-description.md # ブログ説明用のMarkdown  
-│   ├── hatena-footer.html               # はてなブログのフッター
-│   ├── hatena-header.html               # はてなブログのヘッダー
-│   ├── hatena-sidebar_toc.html          # サイドバーの目次用HTML
-│   └── in-progress_footer.html          # 開発中のフッターHTML
-└── images/
+│   ├── hatena-footer.html               # はてなブログのフッター  
+│   ├── hatena-header.html               # はてなブログのヘッダー  
+│   ├── hatena-sidebar_toc.html          # サイドバーの目次用HTML  
+│   └── in-progress_footer.html          # 開発中のフッターHTML  
+└── images/  
     └── anime-reviews/
         ├── makeine_title.png      # アニメ感想記事用の画像
         ├── nigoriri_title.png     # 同上
