@@ -43,9 +43,9 @@ assets/
 ```plaintext
 posts/
 ├── about/
-│   └── about.md              # ブログについての記事
+│   └── about.md
 └── anime-reviews/
-    └── anime-reviews_2024_summer.md # 2024年夏アニメ感想
+    └── anime-reviews_2024_summer.md
 ```
 
 ```plaintext
