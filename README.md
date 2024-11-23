@@ -14,7 +14,7 @@ image or gif
 
 ## Author
 
-H
+Hatena-B
 
 ## Licence
 
