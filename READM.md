@@ -29,6 +29,7 @@
 
 
 #### assets/hrml/
+
 | `hatena-about_blog-description.md` | ブログ説明用のMarkdownファイル         |
 | `hatena-footer.html`             | はてなブログのフッターHTML             |
 | `hatena-header.html`             | はてなブログのヘッダーHTML             |
