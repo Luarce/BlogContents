@@ -4,8 +4,8 @@
 はてなブログに投稿する記事や設定内容を管理するリポジトリ
 
 ## Requirement
-- Windows11
-- Visual S
+- Windows 11
+- Visual Studio Code
 ## Usage
 
 ## Features
