@@ -38,8 +38,8 @@ posts/
 │   └── 記事名.md  
 
 templates/  
-├── parts.md    &nbsp; # 記事で利用するパーツテンプレート  
-└── template.md &nbsp; # 記事全体のテンプレート  
+├── parts.md    # 記事で利用するパーツテンプレート  
+└── template.md # 記事全体のテンプレート  
 
 drafts.md   &nbsp; # 執筆中または草稿のアイデア  
 
