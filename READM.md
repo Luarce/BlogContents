@@ -9,7 +9,7 @@
 
 ## Usage
 1. VSCodeからリポジトリにアクセス
-2. 
+2. 記事や設定
 
 ## Features
 .vscode/  
