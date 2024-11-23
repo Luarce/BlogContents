@@ -16,7 +16,7 @@ assets/
 ├── css/  
 │   ├── hatena-design.css      &nbsp; # はてなブログで使用するデザインCSS  
 ├── html/  
-│   ├── hatena-about_blog-description.md &nbsp;# ブログ説明用のMarkdown  
+│   ├── hatena-about_blog-description.md &nbsp; # ブログ説明用のMarkdown  
 │   ├── hatena-footer.html               &nbsp; # はてなブログのフッター  
 │   ├── hatena-header.html               &nbsp; # はてなブログのヘッダー  
 │   ├── hatena-sidebar_toc.html          &nbsp; # サイドバーの目次用HTML  
