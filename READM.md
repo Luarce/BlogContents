@@ -23,7 +23,8 @@ assets/
 └── images/  
 
 posts/
-├── about/
+├── ジャンル/
+│   └── about.md                # 「ブログについて」の記事
 └── anime-reviews/
 
 
