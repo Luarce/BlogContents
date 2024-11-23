@@ -25,6 +25,10 @@
 | ファイル             | 詳細                                   |
 |------------------------|----------------------------------------|
 | `hatena-design.css`    | はてなブログのデザインCSSファイル     |
+
+
+
+#### assets/css/
 | `hatena-about_blog-description.md` | ブログ説明用のMarkdownファイル         |
 | `hatena-footer.html`             | はてなブログのフッターHTML             |
 | `hatena-header.html`             | はてなブログのヘッダーHTML             |
