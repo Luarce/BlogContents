@@ -28,7 +28,7 @@
 | `markdown-style.css`   | VS Code用Markdownプレビューのスタイル設定 |
 | `settings.json`        | VS Codeのプロジェクト固有の設定       |
 
-
+#### .assets
 ```plaintext
 assets/
 ├── css/
