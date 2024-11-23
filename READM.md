@@ -52,6 +52,7 @@ posts/
 templates/
 ├── parts.md                  # 記事で利用するテンプレート部品
 └── template.md               # 記事全体のテンプレート
+```
 
 drafts.md                     # 執筆中または草稿のアイデア
 .gitattributes                # Gitの属性設定
