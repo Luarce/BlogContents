@@ -35,7 +35,7 @@
 | `hatena-sidebar_toc.html` | `デザイン -> カスタマイズ -> サイドバー -> 追加モジュール` |
 
 #### assets/images/
-| `images/` | 画像格納ディレクトリ |
+| `記事ジャンル/images/` | 画像格納ディレクトリ |
 
 #### posts/
 | ファイル | 詳細 |
