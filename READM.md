@@ -25,7 +25,7 @@
 
 #### assets/
 | ファイル | 詳細 |
-|--------|--------------------|
+|--------|-----|
 | `css/hatena-design.css` | `デザイン -> カスタマイズ -> デザインCSS` |
 | `html/hatena-about_blog-description.md` | `設定 -> aboutページ編集 -> 表示設定 -> ブログの説明(モード：Markdown)` |
 | `html/hatena-footer.html` | `デザイン -> カスタマイズ -> フッタ` |
