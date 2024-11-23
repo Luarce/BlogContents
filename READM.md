@@ -39,7 +39,7 @@ posts/
 ├── about/
 │   └── about.md
 └── anime-reviews/
-    └── anime-reviews_2024_summer.md
+　   └── anime-reviews_2024_summer.md
 ```
 
 ```plaintext
