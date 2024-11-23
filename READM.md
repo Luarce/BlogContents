@@ -21,8 +21,6 @@ assets/
 │   ├── hatena-header.html               &nbsp; # はてなブログのヘッダー  
 │   ├── hatena-sidebar_toc.html          &nbsp; # サイドバーの目次用HTML  
 └── images/  
-    └── anime-reviews/  
-
 
 posts/
 ├── about/
