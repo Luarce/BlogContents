@@ -15,13 +15,13 @@
 assets/  
 ├── css/  
 │   ├── hatena-design.css      &nbsp; # はてなブログで使用するデザインCSS  
-│   └── in-progress_design.css  # 開発中のCSS  
+│   └── in-progress_design.css  &nbsp; # 開発中のCSS  
 ├── html/  
-│   ├── hatena-about_blog-description.md # ブログ説明用のMarkdown  
-│   ├── hatena-footer.html               # はてなブログのフッター  
-│   ├── hatena-header.html               # はてなブログのヘッダー  
-│   ├── hatena-sidebar_toc.html          # サイドバーの目次用HTML  
-│   └── in-progress_footer.html          # 開発中のフッターHTML  
+│   ├── hatena-about_blog-description.md &nbsp; # ブログ説明用のMarkdown  
+│   ├── hatena-footer.html               &nbsp; # はてなブログのフッター  
+│   ├── hatena-header.html               &nbsp; # はてなブログのヘッダー  
+│   ├── hatena-sidebar_toc.html          &nbsp; # サイドバーの目次用HTML  
+│   └── in-progress_footer.html          &nbsp; # 開発中のフッターHTML  
 └── images/  
     └── anime-reviews/  
 
