@@ -20,7 +20,6 @@ assets/
 │   ├── hatena-footer.html               &nbsp; # はてなブログのフッター  
 │   ├── hatena-header.html               &nbsp; # はてなブログのヘッダー  
 │   ├── hatena-sidebar_toc.html          &nbsp; # サイドバーの目次用HTML  
-│   └── in-progress_footer.html          &nbsp; # 開発中のフッターHTML  
 └── images/  
     └── anime-reviews/  
 
