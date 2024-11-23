@@ -13,7 +13,7 @@
 3. はてなブログにコピペして反映
 
 ## Features
-### ディレクトリ校正
+### ディレクトリ構成
 .vscode/  
 ├── markdown-style.css  # VS Code用Markdownプレビューのスタイル設定  
 └── settings.json   # VS Codeの設定ファイル  
