@@ -24,7 +24,7 @@
 | `settings.json` | VS Codeのプロジェクト固有の設定 |
 
 #### assets/
-css/
+##### css/
 | ファイル | 詳細 |
 |--------|-----|
 | `hatena-design.css` | `デザイン -> カスタマイズ -> デザインCSS`に反映 |
