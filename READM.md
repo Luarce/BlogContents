@@ -62,13 +62,6 @@ assets/
 | `parts.md`         | 記事で使用するパーツテンプレート      |
 | `template.md`      | 記事全体のテンプレート               |
 
-
-```plaintext
-drafts.md
-.gitattributes
-.htmlhintrc
-```
-
 #### その他(root/)
 | ファイル         | 詳細                                  |
 |--------------------|---------------------------------------|
