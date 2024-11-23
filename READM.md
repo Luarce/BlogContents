@@ -11,8 +11,8 @@
   - HTML Preview (必要に応じて)
 
 ## Usage
-1. **Visual Studio Code**でリポジトリを開く  
-2. 記事（`.md`）、デザイン（`.css`）、ヘッダーやフッター（`.html`）を編集  
+1. **Visual Studio Code**でリポジトリを開く
+2. 記事（`.md`）、デザイン（`.css`）、ヘッダーやフッター（`.html`）を編集
 3. **はてなブログ**にアクセスし、編集内容をコピペして反映
 
 ## Features
