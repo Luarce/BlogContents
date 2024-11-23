@@ -9,7 +9,7 @@
     "**/.git": true,
     "**/.gitattributes": true,
     "**/.htmlhintrc": true,
-    
+    "**/LICENSE"
     },
 
     // 辞書登録
