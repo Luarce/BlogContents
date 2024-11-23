@@ -50,7 +50,7 @@ assets/
 | `hatena-sidebar_toc.html`        | サイドバー目次用HTML                  |
 | `images/`    | 画像フォルダ |
 
-####
+#### posts/
 ```plaintext
 posts/
 ├── about/
