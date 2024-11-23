@@ -15,7 +15,7 @@
 
 ## Features
 ### ディレクトリ構成
-```pla
+```plane
 
 #### .vscode/
 | ファイル             | 詳細                                   |
