@@ -9,6 +9,7 @@
 
 ## Usage
 1. VSCodeからリポジトリにアクセス
+2. 
 
 ## Features
 .vscode/  
