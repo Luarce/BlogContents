@@ -64,6 +64,7 @@ posts/
 | `about/about.md`               | ブログの概要説明記事                   |
 | `anime-reviews/anime-reviews_2024_summer.md` | 2024年夏アニメの感想記事           |
 
+#### templates/
 ```plaintext
 templates/
 ├── parts.md
