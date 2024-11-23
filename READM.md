@@ -50,12 +50,12 @@ posts/
 
 ```plaintext
 templates/
-├── parts.md                  # 記事で利用するテンプレート部品
-└── template.md               # 記事全体のテンプレート
+├── parts.md
+└── template.md
 ```
 
 ```plaintext
-drafts.md                     # 執筆中または草稿のアイデア
+drafts.md
 .gitattributes                # Gitの属性設定
 .htmlhintrc                   # HTMLコードスタイルのチェック設定
 ```
