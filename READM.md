@@ -26,12 +26,12 @@
 #### assets/
 | ファイル | 詳細 |
 |--------|-----|
-| `css/hatena-design.css` | はてなブログ用デザインCSS ||
-| `html/hatena-about_blog-description.md` | ブログ説明用Markdownファイル ||
-| `html/hatena-footer.html` | フッター用HTML ||
-| `html/hatena-header.html` | ヘッダー用HTML ||
-| `html/hatena-sidebar_toc.html` | サイドバー目次用HTML ||
-| `images/` | アニメ感想用画像ディレクトリ ||
+| `css/hatena-design.css` | はてなブログ用デザインCSS |
+| `html/hatena-about_blog-description.md` | ブログ説明用Markdownファイル |
+| `html/hatena-footer.html` | フッター用HTML |
+| `html/hatena-header.html` | ヘッダー用HTML |
+| `html/hatena-sidebar_toc.html` | サイドバー目次用HTML |
+| `images/` | アニメ感想用画像ディレクトリ |
 
 #### posts/
 | ファイル | 詳細 |
