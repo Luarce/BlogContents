@@ -14,7 +14,7 @@
 
 assets/  
 ├── css/  
-│   ├── hatena-design.css       # はてなブログで使用するデザインCSS  
+│   ├── hatena-design.css&nbsp;       # はてなブログで使用するデザインCSS  
 │   └── in-progress_design.css  # 開発中のCSS  
 ├── html/  
 │   ├── hatena-about_blog-description.md # ブログ説明用のMarkdown  
