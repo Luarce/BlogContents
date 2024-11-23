@@ -45,8 +45,8 @@
 #### その他(root/)
 | ファイル | 詳細 |
 |--------|-----|
-| `drafts.md` | 執筆中または草稿のアイデア           |
-| `.gitattributes` | Gitの属性設定                        |
+| `drafts.md` | 執筆中または草稿のアイデア |
+| `.gitattributes` | Gitの属性設定 |
 | `.htmlhintrc` | HTMLコードスタイルチェック設定        |
 
 ## Reference
