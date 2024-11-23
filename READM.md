@@ -51,14 +51,6 @@ assets/
 | `images/`    | 画像フォルダ |
 
 #### posts/
-```plaintext
-posts/
-├── about/
-│   └── about.md
-└── anime-reviews/
-　   └── anime-reviews_2024_summer.md
-```
-
 | ファイル                     | 詳細                                    |
 |--------------------------------|-----------------------------------------|
 | `about/about.md`               | ブログの概要説明記事                   |
