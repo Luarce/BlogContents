@@ -32,7 +32,7 @@
   - Visual Studio Code
     - 目的
     - 方法
-  - Visual Studio Code
+  - VLC Media Player
     - 目的
     - 方法
 
