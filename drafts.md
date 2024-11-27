@@ -22,7 +22,8 @@
     - Windows Photo Viewer
       - 目的
       - 方法
-    - スクリーンセーバー
+    - スクリーンセーバー無効化
+      - 
 - ソフト関連
   - Google Chrome
     - 目的
