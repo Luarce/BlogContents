@@ -1,6 +1,6 @@
 <img class="thumbnail" src="サムネurl" alt="サムネalt">
 
-書き出し
+
 
 [:contents]
 
