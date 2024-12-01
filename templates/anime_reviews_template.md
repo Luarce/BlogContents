@@ -8,9 +8,6 @@
 </div>
 
 
-
-
-
 <div style="text-align: center"><b>おわり</b></div>
 
 <!-- 記事タイトル： -->
