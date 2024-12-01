@@ -50,3 +50,16 @@
     - ヒーローの選び方
     - エンブレムの選び方
   - 立ち回りの実践解説
+
+
+
+
+
+<div style="text-align: center"><b>おわり</b></div>
+
+<!-- 記事タイトル： -->
+
+<!-- css -->
+<style>
+@import url("../../assets/css/hatena-design.css");
+</style>
