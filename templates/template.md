@@ -1,7 +1,5 @@
 <img class="thumbnail" src="サムネurl" alt="サムネalt">
 
-
-
 [:contents]
 
 ### 見出し
