@@ -6,7 +6,7 @@
 
 ### 見出し
 <div class="box_youtube">
-[https://youtu.be/ITFklIWu0Wg?si=LnQ_DAoxHWSiW1WE:embed]
+[https://youtu.be/???:embed]
 </div>
 本文
 
