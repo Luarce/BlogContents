@@ -3,7 +3,7 @@
 <img class="thumbnail" src="サムネurl" alt="サムネalt">
 
 [:contents]
-<div></div>
+
 ### 見出し
 - はじめに
 
