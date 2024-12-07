@@ -1,7 +1,7 @@
 ## 大魔境周回解説
 
 <img class="thumbnail" src="サムネurl" alt="サムネalt">
-<span></span>
+<div></div>
 [:contents]
 
 ### 見出し
