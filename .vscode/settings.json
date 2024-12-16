@@ -9,7 +9,7 @@
     "**/.git": true,
     "**/.gitattributes": true,
     "**/.htmlhintrc": true,
-    "**/LICENSE":true,
+    "**/LICENSE":false,
     "README.md":true
     },
 
